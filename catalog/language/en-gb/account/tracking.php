@@ -1,15 +1,15 @@
 <?php
-// Heading
-$_['heading_title']    = 'Affiliate Tracking';
+// Título
+$_['heading_title']    = 'Seguimiento de Afiliados';
 
-// Text
-$_['text_account']     = 'Account';
-$_['text_description'] = 'To make sure you get paid for referrals you send to us we need to track the referral by placing a tracking code in the URL\'s linking to us. You can use the tools below to generate links to the %s web site.';
+// Texto
+$_['text_account']     = 'Cuenta';
+$_['text_description'] = 'Para asegurarnos de que te paguen por las referencias que nos envíes, necesitamos rastrear la referencia colocando un código de seguimiento en las URL que enlazan con nosotros. Puedes utilizar las herramientas a continuación para generar enlaces al sitio web de %s.';
 
-// Entry
-$_['entry_code']       = 'Your Tracking Code';
-$_['entry_generator']  = 'Tracking Link Generator';
-$_['entry_link']       = 'Tracking Link';
+// Entrada
+$_['entry_code']       = 'Tu Código de Seguimiento';
+$_['entry_generator']  = 'Generador de Enlaces de Seguimiento';
+$_['entry_link']       = 'Enlace de Seguimiento';
 
-// Help
-$_['help_generator']   = 'Type in the name of a product you would like to link to';
+// Ayuda
+$_['help_generator']   = 'Escribe el nombre de un producto al que te gustaría enlazar';

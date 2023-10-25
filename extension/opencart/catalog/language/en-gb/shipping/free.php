@@ -1,6 +1,7 @@
 <?php
-// Heading
-$_['heading_title']    = 'Free Shipping';
+// Encabezado
+$_['heading_title']    = 'Envío Gratuito';
 
-// Text
-$_['text_description'] = 'Free Shipping';
+// Texto
+$_['text_description'] = 'Envío Gratuito';
+?>

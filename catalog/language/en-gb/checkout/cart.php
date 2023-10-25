@@ -1,37 +1,38 @@
 <?php
-// Heading
-$_['heading_title']              = 'Shopping Cart';
+// Encabezado
+$_['heading_title']              = 'Carrito de Compras';
 
-// Text
-$_['text_success']               = 'Success: You have added <a href="%s">%s</a> to your <a href="%s">shopping cart</a>!';
-$_['text_edit']                  = 'Success: You have modified your shopping cart!';
-$_['text_remove']                = 'Success: You have removed an item from your shopping cart!';
-$_['text_login']                 = 'Attention: You must <a href="%s">login</a> or <a href="%s">create an account</a> to view prices!';
-$_['text_no_results']            = 'Your shopping cart is empty!';
-$_['text_next']                  = 'What would you like to do next?';
-$_['text_next_choice']           = 'Choose if you have a discount code or reward points you want to use or would like to estimate your delivery cost.';
-$_['text_points']                = 'Reward Points';
-$_['text_subscription']          = 'Subscription';
-$_['text_subscription_trial']    = '%s every %d %s(s) for %d payment(s) then ';
-$_['text_subscription_duration'] = '%s every %d %s(s) for %d payment(s)';
-$_['text_subscription_cancel']   = '%s every %d %s(s) until canceled';
-$_['text_day']                   = 'day';
-$_['text_week']                  = 'week';
-$_['text_semi_month']            = 'half-month';
-$_['text_month']                 = 'month';
-$_['text_year']                  = 'year';
+// Texto
+$_['text_success']               = 'Éxito: Has añadido <a href="%s">%s</a> a tu <a href="%s">carrito de compras</a>!';
+$_['text_edit']                  = 'Éxito: Has modificado tu carrito de compras!';
+$_['text_remove']                = 'Éxito: Has eliminado un artículo de tu carrito de compras!';
+$_['text_login']                 = 'Atención: Debes <a href="%s">iniciar sesión</a> o <a href="%s">crear una cuenta</a> para ver los precios!';
+$_['text_no_results']            = '¡Tu carrito de compras está vacío!';
+$_['text_next']                  = '¿Qué te gustaría hacer a continuación?';
+$_['text_next_choice']           = 'Elige si tienes un código de descuento o puntos de recompensa que deseas usar o si deseas calcular el costo de envío.';
+$_['text_points']                = 'Puntos de Recompensa';
+$_['text_subscription']          = 'Suscripción';
+$_['text_subscription_trial']    = '%s cada %d %s(s) durante %d pago(s) y luego ';
+$_['text_subscription_duration'] = '%s cada %d %s(s) durante %d pago(s)';
+$_['text_subscription_cancel']   = '%s cada %d %s(s) hasta que se cancele';
+$_['text_day']                   = 'día';
+$_['text_week']                  = 'semana';
+$_['text_semi_month']            = 'media quincena';
+$_['text_month']                 = 'mes';
+$_['text_year']                  = 'año';
 
-// Column
-$_['column_image']               = 'Image';
-$_['column_name']                = 'Product Name';
-$_['column_model']               = 'Model';
-$_['column_quantity']            = 'Quantity';
-$_['column_price']               = 'Unit Price';
+// Columna
+$_['column_image']               = 'Imagen';
+$_['column_name']                = 'Nombre del Producto';
+$_['column_model']               = 'Modelo';
+$_['column_quantity']            = 'Cantidad';
+$_['column_price']               = 'Precio Unitario';
 $_['column_total']               = 'Total';
 
 // Error
-$_['error_stock']                = 'Products marked with *** are not available in the desired quantity or not in stock!';
-$_['error_minimum']              = 'Minimum order amount for %s is %s!';
-$_['error_required']             = '%s required!';
-$_['error_product']              = 'Warning: Product could not be found!';
-$_['error_subscription']         = 'Please select a subscription plan!';
+$_['error_stock']                = 'Los productos marcados con *** no están disponibles en la cantidad deseada o no están en stock!';
+$_['error_minimum']              = 'El monto mínimo del pedido para %s es %s!';
+$_['error_required']             = '%s requerido!';
+$_['error_product']              = 'Advertencia: No se pudo encontrar el producto!';
+$_['error_subscription']         = 'Por favor, selecciona un plan de suscripción!';
+?>

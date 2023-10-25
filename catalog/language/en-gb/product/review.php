@@ -1,27 +1,28 @@
 <?php
-// Text
-$_['text_reviews']    = '%s reviews';
-$_['text_write']      = 'Write a review';
-$_['text_login']      = 'Please <a href="%s">login</a> or <a href="%s">register</a> to review';
-$_['text_no_results'] = 'There are no reviews for this product.';
-$_['text_note']       = '<span class="text-danger">Note:</span> HTML is not translated!';
-$_['text_success']    = 'Thank you for your review. It has been submitted to the webmaster for approval.';
+// Texto
+$_['text_reviews']    = '%s opiniones';
+$_['text_write']      = 'Escribir una opinión';
+$_['text_login']      = 'Por favor, <a href="%s">inicia sesión</a> o <a href="%s">regístrate</a> para opinar';
+$_['text_no_results'] = 'No hay opiniones para este producto.';
+$_['text_note']       = '<span class="text-danger">Nota:</span> El HTML no se traduce!';
+$_['text_success']    = 'Gracias por tu opinión. Se ha enviado al webmaster para su aprobación.';
 
-// Entry
-$_['entry_name']       = 'Your Name';
-$_['entry_review']     = 'Your Review';
-$_['entry_rating']     = 'Rating';
-$_['entry_good']       = 'Good';
-$_['entry_bad']        = 'Bad';
+// Entrada
+$_['entry_name']       = 'Tu Nombre';
+$_['entry_review']     = 'Tu Opinión';
+$_['entry_rating']     = 'Valoración';
+$_['entry_good']       = 'Bueno';
+$_['entry_bad']        = 'Malo';
 
-// Tabs
-$_['tab_review']       = 'Reviews (%s)';
+// Pestañas
+$_['tab_review']       = 'Opiniones (%s)';
 
 // Error
-$_['error_token']      = 'Warning: Review token invalid!';
-$_['error_product']    = 'Warning: Product could not be found!';
-$_['error_name']       = 'Review Name must be between 3 and 25 characters!';
-$_['error_text']       = 'Review Text must be between 25 and 1000 characters!';
-$_['error_rating']     = 'Please select a review rating!';
-$_['error_guest']      = 'You must login to review the product!';
-$_['error_purchased']  = 'You must have purchased this product before you can write a review!';
+$_['error_token']      = 'Advertencia: ¡Token de opinión no válido!';
+$_['error_product']    = 'Advertencia: ¡No se pudo encontrar el producto!';
+$_['error_name']       = 'El Nombre de la Opinión debe tener entre 3 y 25 caracteres.';
+$_['error_text']       = 'El Texto de la Opinión debe tener entre 25 y 1000 caracteres.';
+$_['error_rating']     = 'Por favor, selecciona una valoración para la opinión.';
+$_['error_guest']      = 'Debes iniciar sesión para opinar sobre el producto.';
+$_['error_purchased']  = 'Debes haber comprado este producto antes de poder escribir una opinión.';
+?>

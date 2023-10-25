@@ -1,30 +1,31 @@
 <?php
-// Heading
-$_['heading_title']    = 'Weight Classes';
+// Encabezado
+$_['heading_title']    = 'Clases de Peso';
 
-// Text
-$_['text_success']     = 'Success: You have modified weight classes!';
-$_['text_list']        = 'Weight Class List';
-$_['text_add']         = 'Add Weight Class';
-$_['text_edit']        = 'Edit Weight Class';
+// Texto
+$_['text_success']     = 'Éxito: has modificado las clases de peso correctamente!';
+$_['text_list']        = 'Lista de Clases de Peso';
+$_['text_add']         = 'Agregar Clase de Peso';
+$_['text_edit']        = 'Editar Clase de Peso';
 
-// Column
-$_['column_title']     = 'Weight Title';
-$_['column_unit']      = 'Weight Unit';
-$_['column_value']     = 'Value';
-$_['column_action']    = 'Action';
+// Columna
+$_['column_title']     = 'Título del Peso';
+$_['column_unit']      = 'Unidad de Peso';
+$_['column_value']     = 'Valor';
+$_['column_action']    = 'Acción';
 
-// Entry
-$_['entry_title']      = 'Weight Title';
-$_['entry_unit']       = 'Weight Unit';
-$_['entry_value']      = 'Value';
+// Entrada
+$_['entry_title']      = 'Título del Peso';
+$_['entry_unit']       = 'Unidad de Peso';
+$_['entry_value']      = 'Valor';
 
-// Help
-$_['help_value']       = 'The value of your default weight in the current weight unit. Set to 1 for your default weight.';
+// Ayuda
+$_['help_value']       = 'El valor de tu peso por defecto en la unidad de peso actual. Establece 1 para tu peso por defecto.';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify weight classes!';
-$_['error_title']      = 'Weight Title must be between 3 and 32 characters!';
-$_['error_unit']       = 'Weight Unit must be between 1 and 4 characters!';
-$_['error_default']    = 'Warning: This weight class cannot be deleted as it is currently assigned as the default store weight class!';
-$_['error_product']    = 'Warning: This weight class cannot be deleted as it is currently assigned to %s products!';
+$_['error_permission'] = 'Advertencia: no tienes permiso para modificar las clases de peso!';
+$_['error_title']      = 'El Título del Peso debe tener entre 3 y 32 caracteres!';
+$_['error_unit']       = 'La Unidad de Peso debe tener entre 1 y 4 caracteres!';
+$_['error_default']    = 'Advertencia: no se puede eliminar esta clase de peso, ya que actualmente está asignada como la clase de peso por defecto de la tienda!';
+$_['error_product']    = 'Advertencia: no se puede eliminar esta clase de peso, ya que actualmente está asignada a %s productos!';
+?>

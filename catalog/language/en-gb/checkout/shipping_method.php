@@ -1,18 +1,19 @@
 <?php
-// Heading
-$_['heading_title']          = 'Shipping Method';
+// Encabezado
+$_['heading_title']          = 'Método de Envío';
 
-// Text
-$_['text_shipping_method']   = 'Shipping method options';
-$_['text_shipping']          = 'Please select the preferred shipping method to use for this order.';
-$_['text_success']           = 'Success: You have changed shipping method!';
+// Texto
+$_['text_shipping_method']   = 'Opciones de método de envío';
+$_['text_shipping']          = 'Por favor, selecciona el método de envío preferido para usar en este pedido.';
+$_['text_success']           = 'Éxito: ¡Has cambiado el método de envío!';
 
-// Entry
-$_['entry_shipping_method']  = 'Choose shipping method...';
+// Entrada
+$_['entry_shipping_method']  = 'Elige el método de envío...';
 
 // Error
-$_['error_customer']         = 'Customer required!';
-$_['error_payment_address']  = 'Payment address required!';
-$_['error_shipping_address'] = 'Shipping address required!';
-$_['error_shipping_method']  = 'Shipping method required!';
-$_['error_no_shipping']      = 'No Shipping options are available. Please <a href="%s">contact us</a> for assistance!';
+$_['error_customer']         = '¡Cliente requerido!';
+$_['error_payment_address']  = '¡Se requiere la dirección de pago!';
+$_['error_shipping_address'] = '¡Se requiere la dirección de envío!';
+$_['error_shipping_method']  = '¡Se requiere el método de envío!';
+$_['error_no_shipping']      = 'No hay opciones de envío disponibles. Por favor, <a href="%s">contáctanos</a> para obtener asistencia!';
+?>

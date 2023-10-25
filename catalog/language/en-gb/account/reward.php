@@ -1,14 +1,14 @@
 <?php
-// Heading
-$_['heading_title']      = 'Your Reward Points';
+// Título
+$_['heading_title']      = 'Tus Puntos de Recompensa';
 
-// Column
-$_['column_date_added']  = 'Date Added';
-$_['column_description'] = 'Description';
-$_['column_points']      = 'Points';
+// Columna
+$_['column_date_added']  = 'Fecha Agregada';
+$_['column_description'] = 'Descripción';
+$_['column_points']      = 'Puntos';
 
-// Text
-$_['text_account']       = 'Account';
-$_['text_reward']        = 'Reward Points';
-$_['text_total']         = 'Your total number of reward points is:';
-$_['text_no_results']    = 'You do not have any reward points!';
+// Texto
+$_['text_account']       = 'Cuenta';
+$_['text_reward']        = 'Puntos de Recompensa';
+$_['text_total']         = 'El número total de tus puntos de recompensa es:';
+$_['text_no_results']    = '¡No tienes ningún punto de recompensa!';

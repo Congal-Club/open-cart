@@ -1,25 +1,26 @@
 <?php
 // Heading
-$_['heading_title']     = 'Online Report';
+$_['heading_title']     = 'Informe en Línea';
 
 // Text
-$_['text_extension']    = 'Extensions';
-$_['text_success']      = 'Success: You have modified customers online report!';
-$_['text_list']         = 'Online List';
-$_['text_filter']       = 'Filter';
-$_['text_guest']        = 'Guest';
+$_['text_extension']    = 'Extensiones';
+$_['text_success']      = 'Éxito: ¡Has modificado el informe de clientes en línea!';
+$_['text_list']         = 'Lista en Línea';
+$_['text_filter']       = 'Filtrar';
+$_['text_guest']        = 'Invitado';
 
 // Column
 $_['column_ip']         = 'IP';
-$_['column_customer']   = 'Customer';
-$_['column_url']        = 'Last Page Visited';
-$_['column_referer']    = 'Referer';
-$_['column_date_added'] = 'Last Click';
-$_['column_action']     = 'Action';
+$_['column_customer']   = 'Cliente';
+$_['column_url']        = 'Última Página Visitada';
+$_['column_referer']    = 'Referente';
+$_['column_date_added'] = 'Último Clic';
+$_['column_action']     = 'Acción';
 
 // Entry
 $_['entry_ip']          = 'IP';
-$_['entry_customer']    = 'Customer';
+$_['entry_customer']    = 'Cliente';
 
 // Error
-$_['error_permission']  = 'Warning: You do not have permission to modify customers online report!';
+$_['error_permission']  = 'Advertencia: ¡No tienes permiso para modificar el informe de clientes en línea!';
+?>

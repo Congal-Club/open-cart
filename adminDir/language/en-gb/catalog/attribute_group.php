@@ -1,25 +1,26 @@
 <?php
-// Heading
-$_['heading_title']     = 'Attribute Groups';
+// Encabezado
+$_['heading_title']     = 'Grupos de Atributos';
 
-// Text
-$_['text_success']      = 'Success: You have modified attribute groups!';
-$_['text_list']         = 'Attribute Group List';
-$_['text_add']          = 'Add Attribute Group';
-$_['text_edit']         = 'Edit Attribute Group';
+// Texto
+$_['text_success']      = 'Éxito: ¡Has modificado los grupos de atributos!';
+$_['text_list']         = 'Lista de Grupos de Atributos';
+$_['text_add']          = 'Agregar Grupo de Atributos';
+$_['text_edit']         = 'Editar Grupo de Atributos';
 
-// Column
-$_['column_name']       = 'Attribute Group Name';
-$_['column_sort_order'] = 'Sort Order';
-$_['column_action']     = 'Action';
+// Columna
+$_['column_name']       = 'Nombre del Grupo de Atributos';
+$_['column_sort_order'] = 'Orden de Clasificación';
+$_['column_action']     = 'Acción';
 
-// Entry
-$_['entry_name']        = 'Attribute Group Name';
-$_['entry_sort_order']  = 'Sort Order';
+// Entrada
+$_['entry_name']        = 'Nombre del Grupo de Atributos';
+$_['entry_sort_order']  = 'Orden de Clasificación';
 
 // Error
-$_['error_warning']     = 'Warning: Please check the form carefully for errors!';
-$_['error_permission']  = 'Warning: You do not have permission to modify attribute groups!';
-$_['error_name']        = 'Attribute Group Name must be between 1 and 64 characters!';
-$_['error_attribute']   = 'Warning: This attribute group cannot be deleted as it is currently assigned to %s attributes!';
-$_['error_product']     = 'Warning: This attribute group cannot be deleted as it is currently assigned to %s products!';
+$_['error_warning']     = 'Advertencia: ¡Por favor, verifica cuidadosamente el formulario en busca de errores!';
+$_['error_permission']  = 'Advertencia: No tienes permiso para modificar los grupos de atributos.';
+$_['error_name']        = 'El nombre del Grupo de Atributos debe tener entre 1 y 64 caracteres.';
+$_['error_attribute']   = 'Advertencia: No se puede eliminar este grupo de atributos, ya que está actualmente asignado a %s atributos.';
+$_['error_product']     = 'Advertencia: No se puede eliminar este grupo de atributos, ya que está actualmente asignado a %s productos.';
+?>

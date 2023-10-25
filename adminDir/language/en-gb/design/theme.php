@@ -1,23 +1,24 @@
 <?php
 // Heading
-$_['heading_title']     = 'Theme Editor';
+$_['heading_title']     = 'Editor de Tema';
 
 // Text
-$_['text_success']      = 'Success: You have modified themes!';
-$_['text_edit']         = 'Edit Theme';
-$_['text_store']        = 'Choose your store';
-$_['text_template']     = 'Choose a template';
-$_['text_default']      = 'Default';
-$_['text_extension']    = 'Extension';
-$_['text_history']      = 'Theme History';
-$_['text_twig']         = 'The theme editor uses the template language Twig. You can read about <a href="https://twig.symfony.com/doc/" target="_blank" class="alert-link">Twig syntax here</a>.';
+$_['text_success']      = 'Éxito: ¡Has modificado los temas!';
+$_['text_edit']         = 'Editar Tema';
+$_['text_store']        = 'Elige tu tienda';
+$_['text_template']     = 'Elige una plantilla';
+$_['text_default']      = 'Predeterminado';
+$_['text_extension']    = 'Extensión';
+$_['text_history']      = 'Historial del Tema';
+$_['text_twig']         = 'El editor de temas utiliza el lenguaje de plantillas Twig. Puedes obtener más información sobre la <a href="https://twig.symfony.com/doc/" target="_blank" class="alert-link">sintaxis de Twig aquí</a>.';
 
 // Column
-$_['column_store']      = 'Store';
-$_['column_route']      = 'Route';
-$_['column_date_added'] = 'Date Added';
-$_['column_action']     = 'Action';
+$_['column_store']      = 'Tienda';
+$_['column_route']      = 'Ruta';
+$_['column_date_added'] = 'Fecha de Agregado';
+$_['column_action']     = 'Acción';
 
 // Error
-$_['error_permission']  = 'Warning: You do not have permission to modify the theme editor!';
-$_['error_twig']        = 'Warning: You can only save .twig files!';
+$_['error_permission']  = 'Advertencia: ¡No tienes permiso para modificar el editor de temas!';
+$_['error_twig']        = 'Advertencia: ¡Solo puedes guardar archivos .twig!';
+?>

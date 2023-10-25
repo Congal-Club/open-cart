@@ -1,64 +1,64 @@
 <?php
-// Heading
-$_['heading_title']      = 'Product Returns';
+// Título
+$_['heading_title']      = 'Devoluciones de Productos';
 
-// Text
-$_['text_account']       = 'Account';
-$_['text_return']        = 'Return Information';
-$_['text_return_detail'] = 'Return Details';
-$_['text_description']   = 'Please complete the form below to request an RMA number.';
-$_['text_order']         = 'Order Information';
-$_['text_product']       = 'Product Information';
-$_['text_reason']        = 'Reason for Return';
-$_['text_message']       = '<p>Thank you for submitting your return request. Your request has been sent to the relevant department for processing.</p><p> You will be notified via e-mail as to the status of your request.</p>';
-$_['text_return_id']     = 'Return ID:';
-$_['text_orders_id']     = 'Order ID:';
-$_['text_date_ordered']  = 'Order Date:';
-$_['text_status']        = 'Status:';
-$_['text_date_added']    = 'Date Added:';
-$_['text_comment']       = 'Return Comments';
-$_['text_history']       = 'Return History';
-$_['text_no_results']    = 'You have not made any previous returns!';
-$_['text_agree']         = 'I have read and agree to the <a href="%s" class="modal-link"><b>%s</b></a>';
+// Texto
+$_['text_account']       = 'Cuenta';
+$_['text_return']        = 'Información de Devolución';
+$_['text_return_detail'] = 'Detalles de la Devolución';
+$_['text_description']   = 'Por favor, completa el formulario a continuación para solicitar un número de RMA.';
+$_['text_order']         = 'Información del Pedido';
+$_['text_product']       = 'Información del Producto';
+$_['text_reason']        = 'Motivo de la Devolución';
+$_['text_message']       = '<p>Gracias por enviar tu solicitud de devolución. Tu solicitud ha sido enviada al departamento correspondiente para su procesamiento.</p><p> Serás notificado por correo electrónico sobre el estado de tu solicitud.</p>';
+$_['text_return_id']     = 'ID de Devolución:';
+$_['text_orders_id']     = 'ID de Pedido:';
+$_['text_date_ordered']  = 'Fecha del Pedido:';
+$_['text_status']        = 'Estado:';
+$_['text_date_added']    = 'Fecha de Agregado:';
+$_['text_comment']       = 'Comentarios de la Devolución';
+$_['text_history']       = 'Historial de Devoluciones';
+$_['text_no_results']    = 'No has realizado devoluciones anteriores.';
+$_['text_agree']         = 'He leído y acepto los <a href="%s" class="modal-link"><b>%s</b></a>';
 
-// Column
-$_['column_return_id']   = 'Return ID';
-$_['column_order_id']    = 'Order ID';
-$_['column_status']      = 'Status';
-$_['column_date_added']  = 'Date Added';
-$_['column_customer']    = 'Customer';
-$_['column_product']     = 'Product Name';
-$_['column_model']       = 'Model';
-$_['column_quantity']    = 'Quantity';
-$_['column_price']       = 'Price';
-$_['column_opened']      = 'Opened';
-$_['column_comment']     = 'Comment';
-$_['column_reason']      = 'Reason';
-$_['column_action']      = 'Action';
+// Columna
+$_['column_return_id']   = 'ID de Devolución';
+$_['column_order_id']    = 'ID de Pedido';
+$_['column_status']      = 'Estado';
+$_['column_date_added']  = 'Fecha de Agregado';
+$_['column_customer']    = 'Cliente';
+$_['column_product']     = 'Nombre del Producto';
+$_['column_model']       = 'Modelo';
+$_['column_quantity']    = 'Cantidad';
+$_['column_price']       = 'Precio';
+$_['column_opened']      = 'Abierto';
+$_['column_comment']     = 'Comentario';
+$_['column_reason']      = 'Motivo';
+$_['column_action']      = 'Acción';
 
-// Entry
-$_['entry_order_id']     = 'Order ID';
-$_['entry_date_ordered'] = 'Order Date';
-$_['entry_firstname']    = 'First Name';
-$_['entry_lastname']     = 'Last Name';
-$_['entry_email']        = 'E-Mail';
-$_['entry_telephone']    = 'Telephone';
-$_['entry_product']      = 'Product Name';
-$_['entry_model']        = 'Product Code';
-$_['entry_quantity']     = 'Quantity';
-$_['entry_reason']       = 'Reason for Return';
-$_['entry_opened']       = 'Product is opened';
-$_['entry_fault_detail'] = 'Faulty or other details';
+// Entrada
+$_['entry_order_id']     = 'ID de Pedido';
+$_['entry_date_ordered'] = 'Fecha del Pedido';
+$_['entry_firstname']    = 'Nombre';
+$_['entry_lastname']     = 'Apellido';
+$_['entry_email']        = 'Correo Electrónico';
+$_['entry_telephone']    = 'Teléfono';
+$_['entry_product']      = 'Nombre del Producto';
+$_['entry_model']        = 'Código del Producto';
+$_['entry_quantity']     = 'Cantidad';
+$_['entry_reason']       = 'Motivo de la Devolución';
+$_['entry_opened']       = 'Producto abierto';
+$_['entry_fault_detail'] = 'Detalles de la falla u otros';
 
 // Error
-$_['text_error']         = 'The returns you requested could not be found!';
-$_['error_token']        = 'Warning: Reset token invalid!';
-$_['error_order_id']     = 'Order ID required!';
-$_['error_firstname']    = 'First Name must be between 1 and 32 characters!';
-$_['error_lastname']     = 'Last Name must be between 1 and 32 characters!';
-$_['error_email']        = 'E-Mail Address does not appear to be valid!';
-$_['error_telephone']    = 'Telephone must be between 3 and 32 characters!';
-$_['error_product']      = 'Product Name must be greater than 3 and less than 255 characters!';
-$_['error_model']        = 'Product Model must be greater than 3 and less than 64 characters!';
-$_['error_reason']       = 'You must select a return product reason!';
-$_['error_agree']        = 'Warning: You must agree to the %s!';
+$_['text_error']         = 'Las devoluciones que solicitaste no se pudieron encontrar.';
+$_['error_token']        = 'Advertencia: Token de restablecimiento no válido.';
+$_['error_order_id']     = 'Se requiere el ID de Pedido.';
+$_['error_firstname']    = 'El Nombre debe tener entre 1 y 32 caracteres.';
+$_['error_lastname']     = 'El Apellido debe tener entre 1 y 32 caracteres.';
+$_['error_email']        = 'La Dirección de Correo Electrónico no parece ser válida.';
+$_['error_telephone']    = 'El Teléfono debe tener entre 3 y 32 caracteres.';
+$_['error_product']      = 'El Nombre del Producto debe tener más de 3 y menos de 255 caracteres.';
+$_['error_model']        = 'El Modelo del Producto debe tener más de 3 y menos de 64 caracteres.';
+$_['error_reason']       = 'Debes seleccionar un motivo de devolución para el producto.';
+$_['error_agree']        = 'Advertencia: Debes aceptar los %s.';

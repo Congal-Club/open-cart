@@ -1,9 +1,9 @@
 <?php
-// Heading
-$_['heading_title']    = 'Bank Transfer';
+// Encabezado
+$_['heading_title']    = 'Transferencia Bancaria';
 
-// Text
-$_['text_instruction'] = 'Bank Transfer Instructions';
-$_['text_description'] = 'Please transfer the total amount to the following bank account.';
-$_['text_payment']     = 'Your order will not ship until we receive payment.';
-
+// Texto
+$_['text_instruction'] = 'Instrucciones para la Transferencia Bancaria';
+$_['text_description'] = 'Por favor, transfiera la cantidad total a la siguiente cuenta bancaria.';
+$_['text_payment']     = 'Su pedido no se enviará hasta que recibamos el pago.';
+?>

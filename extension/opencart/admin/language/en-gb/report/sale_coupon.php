@@ -1,25 +1,26 @@
 <?php
-// Heading
-$_['heading_title']    = 'Coupons Report';
+// Encabezado
+$_['heading_title']    = 'Informe de Cupones';
 
-// Text
-$_['text_extension']   = 'Extensions';
-$_['text_edit']        = 'Edit Coupons Report';
-$_['text_success']     = 'Success: You have modified coupon report!';
-$_['text_filter']      = 'Filter';
+// Texto
+$_['text_extension']   = 'Extensiones';
+$_['text_edit']        = 'Editar Informe de Cupones';
+$_['text_success']     = 'Éxito: ¡has modificado el informe de cupones!';
+$_['text_filter']      = 'Filtrar';
 
-// Column
-$_['column_name']      = 'Coupon Name';
-$_['column_code']      = 'Code';
-$_['column_orders']    = 'Orders';
+// Columna
+$_['column_name']      = 'Nombre del Cupón';
+$_['column_code']      = 'Código';
+$_['column_orders']    = 'Órdenes';
 $_['column_total']     = 'Total';
-$_['column_action']    = 'Action';
+$_['column_action']    = 'Acción';
 
-// Entry
-$_['entry_date_start'] = 'Date Start';
-$_['entry_date_end']   = 'Date End';
-$_['entry_status']     = 'Status';
-$_['entry_sort_order'] = 'Sort Order';
+// Entrada
+$_['entry_date_start'] = 'Fecha de Inicio';
+$_['entry_date_end']   = 'Fecha de Finalización';
+$_['entry_status']     = 'Estado';
+$_['entry_sort_order'] = 'Orden de Clasificación';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify coupon report!';
+$_['error_permission'] = 'Advertencia: ¡no tienes permiso para modificar el informe de cupones!';
+?>

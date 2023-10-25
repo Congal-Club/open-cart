@@ -1,24 +1,25 @@
 <?php
 // Heading
-$_['heading_title']         = 'Statistics';
+$_['heading_title']         = 'Estadísticas';
 
 // Text
-$_['text_success']          = 'Success: You have modified statistics!';
-$_['text_list']             = 'Statistics List';
-$_['text_order_sale']       = 'Order Sales';
-$_['text_order_processing'] = 'Orders Processing';
-$_['text_order_complete']   = 'Orders Complete';
-$_['text_order_other']      = 'Orders Other';
-$_['text_returns']          = 'Returns';
-$_['text_customer']         = 'Customers Waiting for Approval';
-$_['text_affiliate']        = 'Affiliates Waiting for Approval';
-$_['text_product']          = 'Out of stock products';
-$_['text_review']           = 'Pending Reviews';
+$_['text_success']          = 'Éxito: ¡Has modificado las estadísticas!';
+$_['text_list']             = 'Lista de Estadísticas';
+$_['text_order_sale']       = 'Ventas de Pedidos';
+$_['text_order_processing'] = 'Pedidos en Proceso';
+$_['text_order_complete']   = 'Pedidos Completos';
+$_['text_order_other']      = 'Otros Pedidos';
+$_['text_returns']          = 'Devoluciones';
+$_['text_customer']         = 'Clientes Esperando Aprobación';
+$_['text_affiliate']        = 'Afiliados Esperando Aprobación';
+$_['text_product']          = 'Productos sin Stock';
+$_['text_review']           = 'Reseñas Pendientes';
 
 // Column
-$_['column_name']           = 'Statistics Name';
-$_['column_value']          = 'Value';
-$_['column_action']         = 'Action';
+$_['column_name']           = 'Nombre de la Estadística';
+$_['column_value']          = 'Valor';
+$_['column_action']         = 'Acción';
 
 // Error
-$_['error_permission']      = 'Warning: You do not have permission to modify statistics!';
+$_['error_permission']      = 'Advertencia: ¡No tienes permiso para modificar las estadísticas!';
+?>

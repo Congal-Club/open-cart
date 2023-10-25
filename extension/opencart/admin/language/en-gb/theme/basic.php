@@ -1,14 +1,15 @@
 <?php
-// Heading
-$_['heading_title']    = 'Default Store Theme';
+// Encabezado
+$_['heading_title']    = 'Tema de Tienda Predeterminado';
 
-// Text
-$_['text_extension']   = 'Extensions';
-$_['text_success']     = 'Success: You have modified the default store theme!';
-$_['text_edit']        = 'Edit Default Store Theme';
+// Texto
+$_['text_extension']   = 'Extensiones';
+$_['text_success']     = 'Éxito: has modificado el tema de tienda predeterminado!';
+$_['text_edit']        = 'Editar Tema de Tienda Predeterminado';
 
-// Entry
-$_['entry_status']     = 'Status';
+// Entrada
+$_['entry_status']     = 'Estado';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify the default store theme!';
+$_['error_permission'] = 'Advertencia: ¡no tienes permiso para modificar el tema de tienda predeterminado!';
+?>

@@ -1,39 +1,40 @@
 <?php
 // Heading
-$_['heading_title']          = 'Extension Installer';
+$_['heading_title']          = 'Instalador de Extensiones';
 
 // Text
-$_['text_upload']            = 'Success: The extension has been uploaded!';
-$_['text_success']           = 'Success: You have modified extensions!';
-$_['text_progress']          = 'Install Progress';
-$_['text_installed']         = 'Installed Extensions';
+$_['text_upload']            = 'Éxito: ¡La extensión ha sido cargada!';
+$_['text_success']           = 'Éxito: ¡Has modificado las extensiones!';
+$_['text_progress']          = 'Progreso de la Instalación';
+$_['text_installed']         = 'Extensiones Instaladas';
 
 // Column
-$_['column_image']           = 'Image';
-$_['column_name']            = 'Extension Name';
-$_['column_version']         = 'Version';
-$_['column_date_added']      = 'Date Added';
-$_['column_action']          = 'Action';
+$_['column_image']           = 'Imagen';
+$_['column_name']            = 'Nombre de la Extensión';
+$_['column_version']         = 'Versión';
+$_['column_date_added']      = 'Fecha de Añadido';
+$_['column_action']          = 'Acción';
 
 // Entry
-$_['entry_progress']         = 'Progress';
+$_['entry_progress']         = 'Progreso';
 
 // Error
-$_['error_permission']       = 'Warning: You do not have permission to modify extensions!';
-$_['error_install']          = 'Warning: Could not find install.json!';
-$_['error_default']          = 'Default extension could not be uninstalled or deleted!';
-$_['error_extension']        = 'Installed extension could not be found!';
-$_['error_installed']        = 'Extension already installed!';
-$_['error_uninstall']        = 'There are %s extensions that need to be uninstalled before this extension can be safely removed!';
-$_['error_name']             = 'Name must be between 3 and 128 characters!';
-$_['error_version']          = 'Version must be between 3 and 128 characters!';
-$_['error_author']           = 'Author must be between 3 and 128 characters!';
-$_['error_link']             = 'Link must be between 3 and 128 characters!';
-$_['error_filename']         = 'Filename must be between 3 and 128 characters!';
-$_['error_file']             = 'Install file %s could not be found!';
-$_['error_file_exists']      = 'File already exist!';
-$_['error_file_type']        = 'Invalid file type!';
-$_['error_directory']        = 'Install directory %s could not be found!';
-$_['error_directory_exists'] = 'Path %s already exists!';
-$_['error_unzip']            = 'Zip file could not be opened!';
-$_['error_upload']           = 'File could not be uploaded!';
+$_['error_permission']       = 'Advertencia: ¡No tienes permiso para modificar extensiones!';
+$_['error_install']          = 'Advertencia: ¡No se pudo encontrar install.json!';
+$_['error_default']          = 'No se pudo desinstalar o eliminar la extensión predeterminada!';
+$_['error_extension']        = '¡No se pudo encontrar la extensión instalada!';
+$_['error_installed']        = '¡Extensión ya instalada!';
+$_['error_uninstall']        = '¡Hay %s extensiones que deben desinstalarse antes de que esta extensión pueda eliminarse de manera segura!';
+$_['error_name']             = 'El nombre debe tener entre 3 y 128 caracteres!';
+$_['error_version']          = 'La versión debe tener entre 3 y 128 caracteres!';
+$_['error_author']           = 'El autor debe tener entre 3 y 128 caracteres!';
+$_['error_link']             = 'El enlace debe tener entre 3 y 128 caracteres!';
+$_['error_filename']         = 'El nombre de archivo debe tener entre 3 y 128 caracteres!';
+$_['error_file']             = '¡No se pudo encontrar el archivo de instalación %s!';
+$_['error_file_exists']      = '¡El archivo ya existe!';
+$_['error_file_type']        = '¡Tipo de archivo no válido!';
+$_['error_directory']        = '¡No se pudo encontrar el directorio de instalación %s!';
+$_['error_directory_exists'] = '¡La ruta %s ya existe!';
+$_['error_unzip']            = '¡No se pudo abrir el archivo ZIP!';
+$_['error_upload']           = '¡No se pudo cargar el archivo!';
+?>

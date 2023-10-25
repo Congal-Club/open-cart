@@ -1,20 +1,21 @@
 <?php
-// Text
-$_['text_subject']        = '%s - Affiliate Program';
-$_['text_welcome']        = 'Thank you for joining the %s Affiliate Program!';
-$_['text_login']          = 'Your account has now been created and you can log in by using your e-mail address and password by visiting our website or at the following URL:';
-$_['text_approval']       = 'Your account must be approved before you can login. Once approved you can log in by using your e-mail address and password by visiting our website or at the following URL:';
-$_['text_service']        = 'Upon logging in, you will be able to generate tracking codes, track commission payments and edit your account information.';
-$_['text_thanks']         = 'Thanks,';
-$_['text_new_affiliate']  = 'New Affiliate';
-$_['text_signup']         = 'A new affiliate has signed up:';
-$_['text_website']        = 'Web Site:';
-$_['text_customer_group'] = 'Customer Group:';
-$_['text_firstname']      = 'First Name:';
-$_['text_lastname']       = 'Last Name:';
-$_['text_company']        = 'Company:';
-$_['text_email']          = 'E-Mail:';
-$_['text_telephone']      = 'Telephone:';
+// Texto
+$_['text_subject']        = '%s - Programa de Afiliados';
+$_['text_welcome']        = '¡Gracias por unirte al Programa de Afiliados de %s!';
+$_['text_login']          = 'Tu cuenta ha sido creada y ahora puedes iniciar sesión utilizando tu dirección de correo electrónico y contraseña visitando nuestro sitio web o en la siguiente URL:';
+$_['text_approval']       = 'Tu cuenta debe ser aprobada antes de poder iniciar sesión. Una vez aprobada, puedes iniciar sesión utilizando tu dirección de correo electrónico y contraseña visitando nuestro sitio web o en la siguiente URL:';
+$_['text_service']        = 'Después de iniciar sesión, podrás generar códigos de seguimiento, realizar un seguimiento de los pagos de comisiones y editar la información de tu cuenta.';
+$_['text_thanks']         = 'Gracias,';
+$_['text_new_affiliate']  = 'Nuevo Afiliado';
+$_['text_signup']         = 'Un nuevo afiliado se ha registrado:';
+$_['text_website']        = 'Sitio Web:';
+$_['text_customer_group'] = 'Grupo de Clientes:';
+$_['text_firstname']      = 'Nombre:';
+$_['text_lastname']       = 'Apellido:';
+$_['text_company']        = 'Compañía:';
+$_['text_email']          = 'Correo Electrónico:';
+$_['text_telephone']      = 'Teléfono:';
 
-// Button
-$_['button_login']        = 'Login';
+// Botón
+$_['button_login']        = 'Iniciar Sesión';
+?>

@@ -1,6 +1,7 @@
 <?php
-// Heading
-$_['heading_title']    = 'Pickup';
+// Encabezado
+$_['heading_title']    = 'Recoger en Tienda';
 
-// Text
-$_['text_description'] = 'Pickup From Store';
+// Texto
+$_['text_description'] = 'Recoger en Tienda';
+?>

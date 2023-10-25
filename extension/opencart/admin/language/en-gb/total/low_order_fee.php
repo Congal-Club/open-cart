@@ -1,21 +1,22 @@
 <?php
-// Heading
-$_['heading_title']    = 'Low Order Fee';
+// Encabezado
+$_['heading_title']    = 'Tarifa de Pedido Bajo';
 
-// Text
-$_['text_extension']   = 'Extensions';
-$_['text_success']     = 'Success: You have modified low order fee total!';
-$_['text_edit']        = 'Edit Low Order Fee Total';
+// Texto
+$_['text_extension']   = 'Extensiones';
+$_['text_success']     = 'Éxito: has modificado el total de la tarifa de pedido bajo!';
+$_['text_edit']        = 'Editar Total de la Tarifa de Pedido Bajo';
 
-// Entry
-$_['entry_total']      = 'Order Total';
-$_['entry_fee']        = 'Fee';
-$_['entry_tax_class']  = 'Tax Class';
-$_['entry_status']     = 'Status';
-$_['entry_sort_order'] = 'Sort Order';
+// Entradas
+$_['entry_total']      = 'Total del Pedido';
+$_['entry_fee']        = 'Tarifa';
+$_['entry_tax_class']  = 'Clase de Impuesto';
+$_['entry_status']     = 'Estado';
+$_['entry_sort_order'] = 'Orden de Clasificación';
 
-// Help
-$_['help_total']       = 'The checkout total the order must reach before this order total is deactivated.';
+// Ayuda
+$_['help_total']       = 'El total del pedido que debe alcanzar el pedido antes de que este total del pedido se desactive.';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify low order fee total!';
+$_['error_permission'] = 'Advertencia: ¡no tienes permiso para modificar el total de la tarifa de pedido bajo!';
+?>

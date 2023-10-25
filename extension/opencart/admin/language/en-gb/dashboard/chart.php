@@ -1,22 +1,23 @@
 <?php
-// Heading
-$_['heading_title']    = 'Sales Analytics';
+// Encabezado
+$_['heading_title']    = 'Análisis de Ventas';
 
-// Text
-$_['text_extension']   = 'Extensions';
-$_['text_success']     = 'Success: You have modified dashboard chart!';
-$_['text_edit']        = 'Edit Dashboard Chart';
-$_['text_order']       = 'Orders';
-$_['text_customer']    = 'Customers';
-$_['text_day']         = 'Today';
-$_['text_week']        = 'Week';
-$_['text_month']       = 'Month';
-$_['text_year']        = 'Year';
+// Texto
+$_['text_extension']   = 'Extensiones';
+$_['text_success']     = 'Éxito: has modificado el gráfico del panel de control.';
+$_['text_edit']        = 'Editar Gráfico del Panel de Control';
+$_['text_order']       = 'Pedidos';
+$_['text_customer']    = 'Clientes';
+$_['text_day']         = 'Hoy';
+$_['text_week']        = 'Semana';
+$_['text_month']       = 'Mes';
+$_['text_year']        = 'Año';
 
-// Entry
-$_['entry_status']     = 'Status';
-$_['entry_sort_order'] = 'Sort Order';
-$_['entry_width']      = 'Width';
+// Entrada
+$_['entry_status']     = 'Estado';
+$_['entry_sort_order'] = 'Orden de Clasificación';
+$_['entry_width']      = 'Ancho';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify dashboard chart!';
+$_['error_permission'] = 'Advertencia: No tienes permiso para modificar el gráfico del panel de control.';
+?>

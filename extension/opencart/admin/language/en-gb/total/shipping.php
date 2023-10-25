@@ -1,16 +1,17 @@
 <?php
-// Heading
-$_['heading_title']    = 'Shipping';
+// Encabezado
+$_['heading_title']    = 'Envío';
 
-// Text
-$_['text_extension']   = 'Extensions';
-$_['text_success']     = 'Success: You have modified shipping total!';
-$_['text_edit']        = 'Edit Shipping Total';
+// Texto
+$_['text_extension']   = 'Extensiones';
+$_['text_success']     = 'Éxito: has modificado el total de envío!';
+$_['text_edit']        = 'Editar Total de Envío';
 
-// Entry
-$_['entry_estimator']  = 'Shipping Estimator';
-$_['entry_status']     = 'Status';
-$_['entry_sort_order'] = 'Sort Order';
+// Entradas
+$_['entry_estimator']  = 'Calculadora de Envío';
+$_['entry_status']     = 'Estado';
+$_['entry_sort_order'] = 'Orden de Clasificación';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify shipping total!';
+$_['error_permission'] = 'Advertencia: ¡no tienes permiso para modificar el total de envío!';
+?>

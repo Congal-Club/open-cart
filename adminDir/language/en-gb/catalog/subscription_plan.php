@@ -1,48 +1,49 @@
 <?php
-// Heading
-$_['heading_title']          = 'Subscription Plans';
+// Encabezado
+$_['heading_title']          = 'Planes de Suscripción';
 
-// Text
-$_['text_success']           = 'Success: You have modified subscription plans!';
-$_['text_list']              = 'Subscription Plan List';
-$_['text_add']               = 'Add Subscription Plan';
-$_['text_edit']              = 'Edit Subscription Plan';
-$_['text_subscription']      = 'Subscription';
-$_['text_trial']             = 'Trial';
-$_['text_day']               = 'Day';
-$_['text_week']              = 'Week';
-$_['text_semi_month']        = 'Semi Month';
-$_['text_month']             = 'Month';
-$_['text_year']              = 'Year';
+// Texto
+$_['text_success']           = 'Éxito: has modificado los planes de suscripción.';
+$_['text_list']              = 'Lista de Planes de Suscripción';
+$_['text_add']               = 'Agregar Plan de Suscripción';
+$_['text_edit']              = 'Editar Plan de Suscripción';
+$_['text_subscription']      = 'Suscripción';
+$_['text_trial']             = 'Prueba';
+$_['text_day']               = 'Día';
+$_['text_week']              = 'Semana';
+$_['text_semi_month']        = 'Medio Mes';
+$_['text_month']             = 'Mes';
+$_['text_year']              = 'Año';
 
-// Entry
-$_['entry_name']            = 'Subscription Plan Name';
-$_['entry_trial_duration']  = 'Trial Duration';
-$_['entry_trial_cycle']     = 'Trial Cycle';
-$_['entry_trial_frequency'] = 'Trial Frequency';
-$_['entry_trial_status']    = 'Trial Status';
-$_['entry_duration']        = 'Duration';
-$_['entry_cycle']           = 'Cycle';
-$_['entry_frequency']       = 'Frequency';
-$_['entry_status']          = 'Status';
-$_['entry_sort_order']      = 'Sort Order';
+// Entrada
+$_['entry_name']            = 'Nombre del Plan de Suscripción';
+$_['entry_trial_duration']  = 'Duración de la Prueba';
+$_['entry_trial_cycle']     = 'Ciclo de la Prueba';
+$_['entry_trial_frequency'] = 'Frecuencia de la Prueba';
+$_['entry_trial_status']    = 'Estado de la Prueba';
+$_['entry_duration']        = 'Duración';
+$_['entry_cycle']           = 'Ciclo';
+$_['entry_frequency']       = 'Frecuencia';
+$_['entry_status']          = 'Estado';
+$_['entry_sort_order']      = 'Orden de Clasificación';
 
-// Column
-$_['column_name']           = 'Subscription Plan Name';
-$_['column_sort_order']     = 'Sort Order';
-$_['column_action']         = 'Action';
+// Columna
+$_['column_name']           = 'Nombre del Plan de Suscripción';
+$_['column_sort_order']     = 'Orden de Clasificación';
+$_['column_action']         = 'Acción';
 
-// Help
-$_['help_trial_duration']   = 'The duration is the number of times the user will make a payment.';
-$_['help_trial_cycle']      = 'Subscription amounts are calculated by the frequency and cycles.';
-$_['help_trial_frequency']  = 'If you use a frequency of "week" and a cycle of "2", then the user will be billed every 2 weeks.';
-$_['help_duration']         = 'The duration is the number of times the user will make a payment, set this to 0 if you want payments until they are cancelled.';
-$_['help_cycle']            = 'Subscription amounts are calculated by the frequency and cycles.';
-$_['help_frequency']        = 'If you use a frequency of "week" and a cycle of "2", then the user will be billed every 2 weeks.';
+// Ayuda
+$_['help_trial_duration']   = 'La duración es el número de veces que el usuario hará un pago.';
+$_['help_trial_cycle']      = 'Los montos de la suscripción se calculan según la frecuencia y los ciclos.';
+$_['help_trial_frequency']  = 'Si usas una frecuencia de "semana" y un ciclo de "2", el usuario será facturado cada 2 semanas.';
+$_['help_duration']         = 'La duración es el número de veces que el usuario hará un pago; configúralo en 0 si deseas pagos hasta que sean cancelados.';
+$_['help_cycle']            = 'Los montos de la suscripción se calculan según la frecuencia y los ciclos.';
+$_['help_frequency']        = 'Si usas una frecuencia de "semana" y un ciclo de "2", el usuario será facturado cada 2 semanas.';
 
 // Error
-$_['error_warning']         = 'Warning: Please check the form carefully for errors!';
-$_['error_permission']      = 'Warning: You do not have permission to modify subscription plans!';
-$_['error_name']            = 'Subscription Plan Name must be greater than 3 and less than 255 characters!';
-$_['error_trial_duration']  = 'Trial duration must be greater than 0!';
-$_['error_product']         = 'Warning: This subscription plans cannot be deleted as it is currently assigned to %s products!';
+$_['error_warning']         = 'Advertencia: por favor, verifica cuidadosamente el formulario en busca de errores.';
+$_['error_permission']      = 'Advertencia: no tienes permiso para modificar planes de suscripción.';
+$_['error_name']            = 'El Nombre del Plan de Suscripción debe tener más de 3 y menos de 255 caracteres.';
+$_['error_trial_duration']  = 'La duración de la prueba debe ser mayor que 0.';
+$_['error_product']         = 'Advertencia: estos planes de suscripción no pueden eliminarse ya que están actualmente asignados a %s productos.';
+?>

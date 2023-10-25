@@ -1,15 +1,16 @@
 <?php
-// Heading
-$_['heading_title'] = 'Use Gift Certificate';
+// Encabezado
+$_['heading_title'] = 'Usar Certificado de Regalo';
 
-// Text
-$_['text_voucher']  = 'Gift Certificate (%s)';
-$_['text_success']  = 'Success: Your gift certificate discount has been applied!';
-$_['text_remove']   = 'Success: Your gift certificate discount has been removed!';
+// Texto
+$_['text_voucher']  = 'Certificado de Regalo (%s)';
+$_['text_success']  = 'Éxito: Se ha aplicado el descuento de tu certificado de regalo.';
+$_['text_remove']   = 'Éxito: Se ha eliminado el descuento de tu certificado de regalo.';
 
-// Entry
-$_['entry_voucher'] = 'Enter your gift certificate code here';
+// Entrada
+$_['entry_voucher'] = 'Ingresa tu código de certificado de regalo aquí';
 
 // Error
-$_['error_voucher'] = 'Warning: Gift Certificate is either invalid or the balance has been used up!';
-$_['error_status']  = 'Warning: Gift Certificate are not enabled on this store!';
+$_['error_voucher'] = 'Advertencia: El certificado de regalo es inválido o el saldo se ha agotado.';
+$_['error_status']  = 'Advertencia: Los certificados de regalo no están habilitados en esta tienda.';
+?>

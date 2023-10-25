@@ -1,14 +1,15 @@
 <?php
-// Heading
-$_['heading_title']    = 'Information';
+// Encabezado
+$_['heading_title']    = 'Información';
 
-// Text
-$_['text_extension']   = 'Extensions';
-$_['text_success']     = 'Success: You have modified information module!';
-$_['text_edit']        = 'Edit Information Module';
+// Texto
+$_['text_extension']   = 'Extensiones';
+$_['text_success']     = 'Éxito: has modificado el módulo de Información!';
+$_['text_edit']        = 'Editar Módulo de Información';
 
-// Entry
-$_['entry_status']     = 'Status';
+// Entrada
+$_['entry_status']     = 'Estado';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify information module!';
+$_['error_permission'] = 'Advertencia: no tienes permiso para modificar el módulo de Información!';
+?>

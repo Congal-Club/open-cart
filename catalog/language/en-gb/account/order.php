@@ -1,46 +1,46 @@
 <?php
-// Heading
-$_['heading_title']              = 'Orders';
+// Título
+$_['heading_title']              = 'Pedidos';
 
-// Text
-$_['text_account']               = 'Account';
-$_['text_order']                 = 'Order #%s';
-$_['text_invoice_no']            = 'Invoice No.';
-$_['text_order_id']              = 'Order ID';
-$_['text_order_status']          = 'Order Status';
-$_['text_shipping_method']       = 'Shipping Method';
-$_['text_payment_method']        = 'Payment Method';
-$_['text_date_added']            = 'Date Added';
-$_['text_shipping_address']      = 'Shipping Address';
-$_['text_payment_address']       = 'Payment Address';
-$_['text_subscription']          = 'Subscription';
-$_['text_subscription_trial']    = '%s every %d %s(s) for %d payment(s) then ';
-$_['text_subscription_duration'] = '%s every %d %s(s) for %d payment(s)';
-$_['text_subscription_cancel']   = '%s every %d %s(s) until canceled';
-$_['text_day']                   = 'day';
-$_['text_week']                  = 'week';
-$_['text_semi_month']            = 'half-month';
-$_['text_month']                 = 'month';
-$_['text_year']                  = 'year';
-$_['text_comment']               = 'Order Comments';
-$_['text_history']               = 'Order History';
-$_['text_success']               = 'Success: You have added <a href="%s">%s</a> to your <a href="%s">shopping cart</a>!';
-$_['text_no_results']            = 'You have not made any previous orders!';
-$_['text_error']                 = 'The order you requested could not be found!';
+// Texto
+$_['text_account']               = 'Cuenta';
+$_['text_order']                 = 'Pedido #%s';
+$_['text_invoice_no']            = 'N° de Factura';
+$_['text_order_id']              = 'ID del Pedido';
+$_['text_order_status']          = 'Estado del Pedido';
+$_['text_shipping_method']       = 'Método de Envío';
+$_['text_payment_method']        = 'Método de Pago';
+$_['text_date_added']            = 'Fecha de Creación';
+$_['text_shipping_address']      = 'Dirección de Envío';
+$_['text_payment_address']       = 'Dirección de Pago';
+$_['text_subscription']          = 'Suscripción';
+$_['text_subscription_trial']    = '%s cada %d %s(s) durante %d pago(s) y luego ';
+$_['text_subscription_duration'] = '%s cada %d %s(s) durante %d pago(s)';
+$_['text_subscription_cancel']   = '%s cada %d %s(s) hasta que se cancele';
+$_['text_day']                   = 'día';
+$_['text_week']                  = 'semana';
+$_['text_semi_month']            = 'medio mes';
+$_['text_month']                 = 'mes';
+$_['text_year']                  = 'año';
+$_['text_comment']               = 'Comentarios del Pedido';
+$_['text_history']               = 'Historial del Pedido';
+$_['text_success']               = 'Éxito: Has añadido <a href="%s">%s</a> a tu <a href="%s">carrito de compras</a>!';
+$_['text_no_results']            = 'No has realizado ningún pedido anteriormente.';
+$_['text_error']                 = 'No se pudo encontrar el pedido que solicitaste.';
 
-// Column
-$_['column_order_id']            = 'Order ID';
-$_['column_customer']            = 'Customer';
-$_['column_product']             = 'No. of Products';
-$_['column_name']                = 'Product Name';
-$_['column_model']               = 'Model';
-$_['column_quantity']            = 'Quantity';
-$_['column_price']               = 'Price';
+// Columna
+$_['column_order_id']            = 'ID del Pedido';
+$_['column_customer']            = 'Cliente';
+$_['column_product']             = 'N° de Productos';
+$_['column_name']                = 'Nombre del Producto';
+$_['column_model']               = 'Modelo';
+$_['column_quantity']            = 'Cantidad';
+$_['column_price']               = 'Precio';
 $_['column_total']               = 'Total';
-$_['column_action']              = 'Action';
-$_['column_status']              = 'Status';
-$_['column_comment']             = 'Comment';
-$_['column_date_added']          = 'Date Added';
+$_['column_action']              = 'Acción';
+$_['column_status']              = 'Estado';
+$_['column_comment']             = 'Comentario';
+$_['column_date_added']          = 'Fecha de Creación';
 
 // Error
-$_['error_reorder']              = '%s is not currently available to be reordered.';
+$_['error_reorder']              = '%s no está disponible actualmente para reordenar.';

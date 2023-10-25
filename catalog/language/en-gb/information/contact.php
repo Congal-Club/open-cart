@@ -1,26 +1,27 @@
 <?php
-// Heading
-$_['heading_title']  = 'Contact Us';
+// Encabezado
+$_['heading_title']  = 'Contáctanos';
 
-// Text
-$_['text_location']  = 'Our Locations';
-$_['text_store']     = 'Our Stores';
-$_['text_contact']   = 'Contact Form';
-$_['text_address']   = 'Address';
-$_['text_telephone'] = 'Telephone';
-$_['text_open']      = 'Opening Times';
-$_['text_comment']   = 'Comments';
-$_['text_message']   = '<p>Your enquiry has been successfully sent to the store owner!</p>';
+// Texto
+$_['text_location']  = 'Nuestras Ubicaciones';
+$_['text_store']     = 'Nuestras Tiendas';
+$_['text_contact']   = 'Formulario de Contacto';
+$_['text_address']   = 'Dirección';
+$_['text_telephone'] = 'Teléfono';
+$_['text_open']      = 'Horario de Apertura';
+$_['text_comment']   = 'Comentarios';
+$_['text_message']   = '<p>Tu consulta ha sido enviada con éxito al propietario de la tienda.</p>';
 
-// Entry
-$_['entry_name']     = 'Your Name';
-$_['entry_email']    = 'E-Mail Address';
-$_['entry_enquiry']  = 'Enquiry';
+// Entrada
+$_['entry_name']     = 'Tu Nombre';
+$_['entry_email']    = 'Dirección de Correo Electrónico';
+$_['entry_enquiry']  = 'Consulta';
 
-// Email
-$_['email_subject']  = 'Enquiry %s';
+// Correo Electrónico
+$_['email_subject']  = 'Consulta %s';
 
-// Errors
-$_['error_name']     = 'Name must be between 3 and 32 characters!';
-$_['error_email']    = 'E-Mail Address does not appear to be valid!';
-$_['error_enquiry']  = 'Enquiry must be between 10 and 3000 characters!';
+// Errores
+$_['error_name']     = 'El nombre debe tener entre 3 y 32 caracteres.';
+$_['error_email']    = 'La dirección de correo electrónico no parece ser válida.';
+$_['error_enquiry']  = 'La consulta debe tener entre 10 y 3000 caracteres.';
+?>

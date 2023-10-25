@@ -1,18 +1,18 @@
 <?php
-// Heading
-$_['heading_title']         = 'Payment Methods';
+// Título
+$_['heading_title']         = 'Métodos de Pago';
 
-// Text
-$_['text_account']          = 'Account';
-$_['text_payment_method']   = 'Payment Method Entries';
-$_['text_success']          = 'Your payment method has been successfully deleted';
-$_['text_no_results']       = 'You have no payment methods in your account.';
+// Texto
+$_['text_account']          = 'Cuenta';
+$_['text_payment_method']   = 'Entradas de Métodos de Pago';
+$_['text_success']          = 'Tu método de pago se ha eliminado correctamente';
+$_['text_no_results']       = 'No tienes métodos de pago en tu cuenta.';
 
-// Column
-$_['column_payment_method'] = 'Payment Method';
-$_['column_type']           = 'Type';
-$_['column_date_expire']    = 'Date Expires';
-$_['column_action']         = 'Action';
+// Columna
+$_['column_payment_method'] = 'Método de Pago';
+$_['column_type']           = 'Tipo';
+$_['column_date_expire']    = 'Fecha de Vencimiento';
+$_['column_action']         = 'Acción';
 
 // Error
-$_['error_payment_method']  = 'Warning: Payment method could not be found!';
+$_['error_payment_method']  = 'Advertencia: No se pudo encontrar el método de pago.';

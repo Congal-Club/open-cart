@@ -1,15 +1,16 @@
 <?php
-// Heading
-$_['heading_title']    = 'European Central Bank Currency Converter';
+// Encabezado
+$_['heading_title']    = 'Convertidor de Divisas del Banco Central Europeo';
 
-// Text
-$_['text_extension']   = 'Extensions';
-$_['text_success']     = 'Success: You have modified European Central Bank Currency Converter!';
-$_['text_edit']        = 'Edit European Central Bank';
-$_['text_support']     = 'This extension requires at EUR currency to be available currency option.';
+// Texto
+$_['text_extension']   = 'Extensiones';
+$_['text_success']     = 'Éxito: has modificado el Convertidor de Divisas del Banco Central Europeo.';
+$_['text_edit']        = 'Editar Banco Central Europeo';
+$_['text_support']     = 'Esta extensión requiere que la moneda EUR esté disponible como opción de moneda.';
 
-// Entry
-$_['entry_status']     = 'Status';
+// Entrada
+$_['entry_status']     = 'Estado';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify European Central Bank Currency Converter!';
+$_['error_permission'] = 'Advertencia: No tienes permisos para modificar el Convertidor de Divisas del Banco Central Europeo.';
+?>

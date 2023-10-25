@@ -1,25 +1,26 @@
 <?php
-// Heading
-$_['heading_title']     = 'Product Comparison';
+// Encabezado
+$_['heading_title']     = 'Comparación de Productos';
 
-// Text
-$_['text_product']      = 'Product Details';
-$_['text_name']         = 'Product';
-$_['text_image']        = 'Image';
-$_['text_price']        = 'Price';
-$_['text_model']        = 'Model';
-$_['text_manufacturer'] = 'Brand';
-$_['text_availability'] = 'Availability';
-$_['text_instock']      = 'In Stock';
-$_['text_rating']       = 'Rating';
-$_['text_reviews']      = 'Based on %s reviews.';
-$_['text_summary']      = 'Summary';
-$_['text_weight']       = 'Weight';
-$_['text_dimension']    = 'Dimensions (L x W x H)';
-$_['text_compare']      = 'Product Compare (%s)';
-$_['text_success']      = 'Success: You have added <a href="%s">%s</a> to your <a href="%s">product comparison</a>!';
-$_['text_remove']       = 'Success: You have modified your product comparison!';
-$_['text_no_results']   = 'You have not chosen any products to compare.';
+// Texto
+$_['text_product']      = 'Detalles del Producto';
+$_['text_name']         = 'Producto';
+$_['text_image']        = 'Imagen';
+$_['text_price']        = 'Precio';
+$_['text_model']        = 'Modelo';
+$_['text_manufacturer'] = 'Marca';
+$_['text_availability'] = 'Disponibilidad';
+$_['text_instock']      = 'En Stock';
+$_['text_rating']       = 'Valoración';
+$_['text_reviews']      = 'Basado en %s reseñas.';
+$_['text_summary']      = 'Resumen';
+$_['text_weight']       = 'Peso';
+$_['text_dimension']    = 'Dimensiones (L x A x Al)';
+$_['text_compare']      = 'Comparar Producto (%s)';
+$_['text_success']      = 'Éxito: Has añadido <a href="%s">%s</a> a tu <a href="%s">comparación de productos</a>!';
+$_['text_remove']       = 'Éxito: Has modificado tu comparación de productos!';
+$_['text_no_results']   = 'No has seleccionado ningún producto para comparar.';
 
 // Error
-$_['error_product']     = 'Warning: Product could not be found!';
+$_['error_product']     = 'Advertencia: ¡No se pudo encontrar el producto!';
+?>

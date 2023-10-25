@@ -1,29 +1,30 @@
 <?php
-// Heading
-$_['heading_title']      = 'Anti-Fraud IP';
+// Encabezado
+$_['heading_title']      = 'Anti-Fraude IP';
 
-// Text
-$_['text_extension']     = 'Extensions';
-$_['text_success']       = 'Success: You have modified Anti-Fraud IP!';
-$_['text_edit']          = 'Edit Anti-Fraud IP';
-$_['text_ip_add']        = 'Add IP Address';
-$_['text_ip_list']       = 'Fraud IP Address List';
+// Texto
+$_['text_extension']     = 'Extensiones';
+$_['text_success']       = 'Éxito: has modificado el Anti-Fraude IP!';
+$_['text_edit']          = 'Editar Anti-Fraude IP';
+$_['text_ip_add']        = 'Agregar Dirección IP';
+$_['text_ip_list']       = 'Lista de Direcciones IP de Fraude';
 
-// Column
+// Columna
 $_['column_ip']          = 'IP';
-$_['column_total']       = 'Total Accounts';
-$_['column_date_added']  = 'Date Added';
-$_['column_action']      = 'Action';
+$_['column_total']       = 'Cuentas Totales';
+$_['column_date_added']  = 'Fecha de Agregado';
+$_['column_action']      = 'Acción';
 
-// Entry
+// Entrada
 $_['entry_ip']           = 'IP';
-$_['entry_status']       = 'Status';
-$_['entry_order_status'] = 'Order Status';
+$_['entry_status']       = 'Estado';
+$_['entry_order_status'] = 'Estado del Pedido';
 
-// Help
-$_['help_order_status']  = 'Customers that have a banned IP on their accounts will be assigned this order status and will not be allowed to reach the complete status automatically.';
+// Ayuda
+$_['help_order_status']  = 'Los clientes que tengan una IP prohibida en sus cuentas se les asignará este estado de pedido y no se les permitirá alcanzar el estado completo automáticamente.';
 
 // Error
-$_['error_permission']   = 'Warning: You do not have permission to modify Anti-Fraud IP!';
-$_['error_required']     = 'IP Address required!';
-$_['error_invalid']      = 'IP Address invalid!';
+$_['error_permission']   = 'Advertencia: no tienes permiso para modificar el Anti-Fraude IP!';
+$_['error_required']     = '¡Se requiere la dirección IP!';
+$_['error_invalid']      = '¡Dirección IP inválida!';
+?>

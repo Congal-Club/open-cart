@@ -1,18 +1,19 @@
 <?php
-// Heading
+// Encabezado
 $_['heading_title']    = 'Fixer';
 
-// Text
-$_['text_extension']   = 'Extensions';
-$_['text_success']     = 'Success: You have modified fixer currency rates!';
-$_['text_edit']        = 'Edit Fixer';
-$_['text_signup']      = 'Fixer.io is a currency conversion service <a href="https://fixer.io/" target="_blank" class="alert-link">signup here</a>.';
-$_['text_support']     = 'This extension Requires at EUR currency to be available currency option.';
+// Texto
+$_['text_extension']   = 'Extensiones';
+$_['text_success']     = 'Éxito: has modificado las tasas de cambio de moneda Fixer.';
+$_['text_edit']        = 'Editar Fixer';
+$_['text_signup']      = 'Fixer.io es un servicio de conversión de divisas. <a href="https://fixer.io/" target="_blank" class="alert-link">Regístrate aquí</a>.';
+$_['text_support']     = 'Esta extensión requiere que la moneda EUR esté disponible como opción de moneda.';
 
-// Entry
-$_['entry_api']        = 'API Access Key';
-$_['entry_status']     = 'Status';
+// Entrada
+$_['entry_api']        = 'Clave de Acceso a la API';
+$_['entry_status']     = 'Estado';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify fixer currency rates!';
-$_['error_api']        = 'API Access Key required!';
+$_['error_permission'] = 'Advertencia: No tienes permisos para modificar las tasas de cambio de moneda Fixer.';
+$_['error_api']        = '¡Se requiere la Clave de Acceso a la API!';
+?>

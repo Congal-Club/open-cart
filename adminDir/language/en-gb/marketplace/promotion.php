@@ -1,6 +1,7 @@
 <?php
 // Text
-$_['text_recommended'] = 'Recommended';
-$_['text_install']     = 'Install';
-$_['text_uninstall']   = 'Uninstall';
-$_['text_delete']      = 'Delete';
+$_['text_recommended'] = 'Recomendado';
+$_['text_install']     = 'Instalar';
+$_['text_uninstall']   = 'Desinstalar';
+$_['text_delete']      = 'Eliminar';
+?>

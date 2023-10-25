@@ -1,9 +1,10 @@
 <?php
 // Heading
-$_['heading_title'] = 'Extensions';
+$_['heading_title'] = 'Extensiones';
 
 // Text
-$_['text_success']  = 'Success: You have modified extensions!';
-$_['text_list']     = 'Extension List';
-$_['text_type']     = 'Choose the extension type';
-$_['text_filter']   = 'Filter';
+$_['text_success']  = 'Éxito: ¡Has modificado las extensiones!';
+$_['text_list']     = 'Lista de Extensiones';
+$_['text_type']     = 'Selecciona el tipo de extensión';
+$_['text_filter']   = 'Filtrar';
+?>

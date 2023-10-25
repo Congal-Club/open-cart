@@ -1,21 +1,22 @@
 <?php
-// Heading
-$_['heading_title']    = 'Handling Fee';
+// Encabezado
+$_['heading_title']    = 'Tarifa de Manipulación';
 
-// Text
-$_['text_extension']   = 'Extensions';
-$_['text_success']     = 'Success: You have modified handling fee total!';
-$_['text_edit']        = 'Edit Handling Fee Total';
+// Texto
+$_['text_extension']   = 'Extensiones';
+$_['text_success']     = 'Éxito: has modificado el total de la tarifa de manipulación!';
+$_['text_edit']        = 'Editar Total de la Tarifa de Manipulación';
 
-// Entry
-$_['entry_total']      = 'Order Total';
-$_['entry_fee']        = 'Fee';
-$_['entry_tax_class']  = 'Tax Class';
-$_['entry_status']     = 'Status';
-$_['entry_sort_order'] = 'Sort Order';
+// Entradas
+$_['entry_total']      = 'Total del Pedido';
+$_['entry_fee']        = 'Tarifa';
+$_['entry_tax_class']  = 'Clase de Impuesto';
+$_['entry_status']     = 'Estado';
+$_['entry_sort_order'] = 'Orden de Clasificación';
 
-// Help
-$_['help_total']       = 'The checkout total the order must reach before this order total becomes active.';
+// Ayuda
+$_['help_total']       = 'El total del pedido que debe alcanzar el pedido antes de que este total del pedido se active.';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify handling fee total!';
+$_['error_permission'] = 'Advertencia: ¡no tienes permiso para modificar el total de la tarifa de manipulación!';
+?>

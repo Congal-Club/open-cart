@@ -1,21 +1,22 @@
 <?php
-// Heading
-$_['heading_title']    = 'Weight Based Shipping';
+// Encabezado
+$_['heading_title']    = 'Envío Basado en Peso';
 
-// Text
-$_['text_extension']   = 'Extensions';
-$_['text_success']     = 'Success: You have modified weight based shipping!';
-$_['text_edit']        = 'Edit Weight Based Shipping';
+// Texto
+$_['text_extension']   = 'Extensiones';
+$_['text_success']     = 'Éxito: has modificado el envío basado en peso!';
+$_['text_edit']        = 'Editar Envío Basado en Peso';
 
-// Entry
-$_['entry_rate']       = 'Rates';
-$_['entry_tax_class']  = 'Tax Class';
-$_['entry_geo_zone']   = 'Geo Zone';
-$_['entry_status']     = 'Status';
-$_['entry_sort_order'] = 'Sort Order';
+// Entrada
+$_['entry_rate']       = 'Tarifas';
+$_['entry_tax_class']  = 'Clase de Impuestos';
+$_['entry_geo_zone']   = 'Zona Geográfica';
+$_['entry_status']     = 'Estado';
+$_['entry_sort_order'] = 'Orden de Clasificación';
 
-// Help
-$_['help_rate']        = 'Example: 5:10.00,7:12.00 Weight:Cost,Weight:Cost, etc..';
+// Ayuda
+$_['help_rate']        = 'Ejemplo: 5:10.00,7:12.00 Peso:Costo, Peso:Costo, etc..';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify weight based shipping!';
+$_['error_permission'] = 'Advertencia: ¡no tienes permiso para modificar el envío basado en peso!';
+?>

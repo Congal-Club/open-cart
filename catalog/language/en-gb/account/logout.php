@@ -1,8 +1,8 @@
 <?php
-// Heading
-$_['heading_title'] = 'Account Logout';
+// Título
+$_['heading_title'] = 'Cierre de Sesión en la Cuenta';
 
-// Text
-$_['text_message']  = '<p>You have been logged off your account. It is now safe to leave the computer.</p><p>Your shopping cart has been saved, the items inside it will be restored whenever you log back into your account.</p>';
-$_['text_account']  = 'Account';
-$_['text_logout']   = 'Logout';
+// Texto
+$_['text_message']  = '<p>Has cerrado la sesión de tu cuenta. Ahora puedes salir de forma segura del ordenador.</p><p>Tu carrito de compras ha sido guardado, los elementos dentro de él se restaurarán cuando vuelvas a iniciar sesión en tu cuenta.</p>';
+$_['text_account']  = 'Cuenta';
+$_['text_logout']   = 'Cerrar Sesión';

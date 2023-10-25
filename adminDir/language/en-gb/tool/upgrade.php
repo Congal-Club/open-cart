@@ -1,30 +1,30 @@
 <?php
-// Heading
-$_['heading_title']        = 'Upgrade';
+// Título
+$_['heading_title']        = 'Actualización';
 
-// Text
-$_['text_success']         = 'Success: You are using the latest version %s!';
-$_['text_upgrade']         = 'Check Latest Version';
-$_['text_information']     = 'Version Information';
-$_['text_current_version'] = 'Current Version';
-$_['text_latest_version']  = 'Latest Version';
-$_['text_date_added']      = 'Release Date';
-$_['text_change']          = 'Change Log';
-$_['text_status']          = 'Upgrade Status';
-$_['text_ready']           = 'Click the upgrade button to upgrade to the latest version...';
-$_['text_download']        = 'Downloading latest...';
-$_['text_install']         = 'Copying files...';
-$_['text_patch']           = 'Applying patches...';
+// Texto
+$_['text_success']         = 'Éxito: ¡Estás utilizando la última versión %s!';
+$_['text_upgrade']         = 'Comprobar última versión';
+$_['text_information']     = 'Información de la Versión';
+$_['text_current_version'] = 'Versión Actual';
+$_['text_latest_version']  = 'Última Versión';
+$_['text_date_added']      = 'Fecha de Lanzamiento';
+$_['text_change']          = 'Registro de Cambios';
+$_['text_status']          = 'Estado de la Actualización';
+$_['text_ready']           = 'Haz clic en el botón de actualización para actualizar a la última versión...';
+$_['text_download']        = 'Descargando la última versión...';
+$_['text_install']         = 'Copiando archivos...';
+$_['text_patch']           = 'Aplicando parches...';
 
-// Button
-$_['button_upgrade']       = 'Upgrade';
+// Botón
+$_['button_upgrade']       = 'Actualizar';
 
 // Error
-$_['error_permission']     = 'Warning: You do not have permission to modify upgrades!';
-$_['error_connection']     = 'Could not connect to the upgrade server!';
-$_['error_version']        = 'Version is lower than the current version!';
-$_['error_download']       = 'Upgrade could not be downloaded!';
-$_['error_file']           = 'Upgrade file could not be found!';
-$_['error_directory']      = 'Could not create directory %s!';
-$_['error_copy']           = 'Could not copy file %s to %s!';
-$_['error_unzip']          = 'Zip file could not be opened!';
+$_['error_permission']     = 'Advertencia: ¡No tienes permiso para modificar actualizaciones!';
+$_['error_connection']     = 'No se pudo conectar al servidor de actualizaciones!';
+$_['error_version']        = 'La versión es más baja que la versión actual!';
+$_['error_download']       = 'No se pudo descargar la actualización!';
+$_['error_file']           = 'No se pudo encontrar el archivo de actualización!';
+$_['error_directory']      = 'No se pudo crear el directorio %s!';
+$_['error_copy']           = 'No se pudo copiar el archivo %s a %s!';
+$_['error_unzip']          = 'No se pudo abrir el archivo ZIP!';

@@ -1,6 +1,7 @@
 <?php
 // Text
-$_['text_subject'] = 'Security';
-$_['text_code']    = 'You must enter the security code in the admin security check.';
+$_['text_subject'] = 'Seguridad';
+$_['text_code']    = 'Debe ingresar el código de seguridad en la verificación de seguridad del administrador.';
 $_['text_ip']      = 'IP:';
-$_['text_regards'] = 'Best Regards';
+$_['text_regards'] = 'Atentamente';
+?>

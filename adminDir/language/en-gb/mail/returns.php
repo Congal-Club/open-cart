@@ -1,8 +1,9 @@
 <?php
 // Text
-$_['text_subject']       = '%s - Return Update %s';
-$_['text_return_id']     = 'Return ID:';
-$_['text_date_added']    = 'Return Date:';
-$_['text_return_status'] = 'Your return has been updated to the following status:';
-$_['text_comment']       = 'The comments for your return are:';
-$_['text_footer']        = 'Please reply to this email if you have any questions.';
+$_['text_subject']       = '%s - Actualización de devolución %s';
+$_['text_return_id']     = 'ID de devolución:';
+$_['text_date_added']    = 'Fecha de devolución:';
+$_['text_return_status'] = 'Tu devolución ha sido actualizada al siguiente estado:';
+$_['text_comment']       = 'Los comentarios para tu devolución son:';
+$_['text_footer']        = 'Por favor, responde a este correo electrónico si tienes alguna pregunta.';
+?>

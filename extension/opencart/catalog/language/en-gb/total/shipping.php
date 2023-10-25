@@ -1,21 +1,22 @@
 <?php
-// Heading
-$_['heading_title']        = 'Estimate Shipping &amp; Taxes';
+// Encabezado
+$_['heading_title']        = 'Calcular Envío &amp; Impuestos';
 
-// Text
-$_['text_shipping_method'] = 'Shipping method options';
-$_['text_destination']     = 'Enter your destination to get a shipping estimate.';
-$_['text_estimate']        = 'Please select the preferred shipping method to use on this order.';
-$_['text_success']         = 'Success: Your shipping estimate has been applied!';
+// Texto
+$_['text_shipping_method'] = 'Opciones de método de envío';
+$_['text_destination']     = 'Ingresa tu destino para obtener una estimación de envío.';
+$_['text_estimate']        = 'Por favor, selecciona el método de envío preferido para usar en este pedido.';
+$_['text_success']         = 'Éxito: ¡Se ha aplicado tu estimación de envío!';
 
-// Entry
-$_['entry_country']        = 'Country';
-$_['entry_zone']           = 'Region / State';
-$_['entry_postcode']       = 'Post Code';
+// Entrada
+$_['entry_country']        = 'País';
+$_['entry_zone']           = 'Región / Provincia';
+$_['entry_postcode']       = 'Código Postal';
 
 // Error
-$_['error_postcode']       = 'Postcode must be between 2 and 10 characters!';
-$_['error_country']        = 'Please select a country!';
-$_['error_zone']           = 'Please select a region / state!';
-$_['error_shipping']       = 'Warning: Shipping method required!';
-$_['error_no_shipping']    = 'Warning: No Shipping options are available. Please <a href="%s">contact us</a> for assistance!';
+$_['error_postcode']       = 'El código postal debe tener entre 2 y 10 caracteres.';
+$_['error_country']        = 'Por favor, selecciona un país.';
+$_['error_zone']           = 'Por favor, selecciona una región / provincia.';
+$_['error_shipping']       = 'Advertencia: ¡Se requiere un método de envío!';
+$_['error_no_shipping']    = 'Advertencia: No hay opciones de envío disponibles. Por favor, <a href="%s">contáctanos</a> para obtener ayuda.';
+?>

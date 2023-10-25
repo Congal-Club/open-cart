@@ -1,10 +1,11 @@
 <?php
 // Text
-$_['text_subject']             = '%s - Subscription';
-$_['text_subscription_id']     = 'Subscription ID';
-$_['text_date_added']          = 'Subscription Date:';
-$_['text_subscription_status'] = 'Your subscription has been added to the following status:';
-$_['text_comment']             = 'The comments for your subscription are:';
-$_['text_payment_method']      = 'Payment Method';
-$_['text_payment_code']        = 'Payment Code';
-$_['text_footer']              = 'Please reply to this email if you have any questions.';
+$_['text_subject']             = '%s - Suscripción';
+$_['text_subscription_id']     = 'ID de Suscripción';
+$_['text_date_added']          = 'Fecha de Suscripción:';
+$_['text_subscription_status'] = 'Tu suscripción se ha actualizado al siguiente estado:';
+$_['text_comment']             = 'Los comentarios para tu suscripción son:';
+$_['text_payment_method']      = 'Método de Pago';
+$_['text_payment_code']        = 'Código de Pago';
+$_['text_footer']              = 'Por favor, responde a este correo electrónico si tienes alguna pregunta.';
+?>

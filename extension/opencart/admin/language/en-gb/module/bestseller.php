@@ -1,33 +1,34 @@
 <?php
-// Heading
-$_['heading_title']    = 'Best Sellers';
+// Encabezado
+$_['heading_title']    = 'Más Vendidos';
 
-// Text
-$_['text_extension']   = 'Extensions';
-$_['text_success']     = 'Success: You have modified best sellers module!';
-$_['text_next']        = 'Success: You have modified %s best sellers out of %s!';
-$_['text_edit']        = 'Edit Best Sellers Module';
+// Texto
+$_['text_extension']   = 'Extensiones';
+$_['text_success']     = 'Éxito: ¡has modificado el módulo de más vendidos!';
+$_['text_next']        = 'Éxito: ¡has modificado %s productos más vendidos de %s!';
+$_['text_edit']        = 'Editar Módulo de Más Vendidos';
 $_['text_horizontal']  = 'Horizontal';
 $_['text_vertical']    = 'Vertical';
-$_['text_report']      = 'Reports';
+$_['text_report']      = 'Informes';
 
-// Column
-$_['column_product']   = 'Product';
+// Columna
+$_['column_product']   = 'Producto';
 $_['column_total']     = 'Total';
 
-// Entry
-$_['entry_name']       = 'Module Name';
-$_['entry_axis']       = 'Axis';
-$_['entry_limit']      = 'Limit';
-$_['entry_width']      = 'Image Width';
-$_['entry_height']     = 'Image Height';
-$_['entry_status']     = 'Status';
+// Entrada
+$_['entry_name']       = 'Nombre del Módulo';
+$_['entry_axis']       = 'Eje';
+$_['entry_limit']      = 'Límite';
+$_['entry_width']      = 'Ancho de la Imagen';
+$_['entry_height']     = 'Altura de la Imagen';
+$_['entry_status']     = 'Estado';
 
-// Button
-$_['button_sync']      = 'Generate Best Sellers List';
+// Botón
+$_['button_sync']      = 'Generar Lista de Más Vendidos';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify best sellers module!';
-$_['error_name']       = 'Module Name must be between 3 and 64 characters!';
-$_['error_width']      = 'Width required!';
-$_['error_height']     = 'Height required!';
+$_['error_permission'] = 'Advertencia: ¡no tienes permiso para modificar el módulo de más vendidos!';
+$_['error_name']       = 'El Nombre del Módulo debe tener entre 3 y 64 caracteres!';
+$_['error_width']      = 'Ancho requerido!';
+$_['error_height']     = 'Altura requerida!';
+?>

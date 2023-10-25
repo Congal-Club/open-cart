@@ -1,7 +1,8 @@
 <?php
-// Text
-$_['text_success']    = 'Success: Affiliate commission will be appliyed to this order!';
-$_['text_remove']     = 'Success: Your affiliate commission has been removed!';
+// Texto
+$_['text_success']    = 'Éxito: ¡La comisión de afiliado se aplicará a este pedido!';
+$_['text_remove']     = 'Éxito: ¡Se ha eliminado tu comisión de afiliado!';
 
 // Error
-$_['error_affiliate'] = 'Warning: Affiliate could not be found!';
+$_['error_affiliate'] = 'Advertencia: ¡No se pudo encontrar al afiliado!';
+?>

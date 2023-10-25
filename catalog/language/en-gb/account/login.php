@@ -1,23 +1,23 @@
 <?php
-// Heading
-$_['heading_title']                = 'Account Login';
+// Título
+$_['heading_title']                = 'Inicio de Sesión en la Cuenta';
 
-// Text
-$_['text_account']                 = 'Account';
-$_['text_login']                   = 'Login';
-$_['text_new_customer']            = 'New Customer';
-$_['text_register']                = 'Register Account';
-$_['text_register_account']        = 'By creating an account you will be able to shop faster, be up to date on an order\'s status, and keep track of the orders you have previously made.';
-$_['text_returning_customer']      = 'Returning Customer';
-$_['text_i_am_returning_customer'] = 'I am a returning customer';
-$_['text_forgotten']               = 'Forgotten Password';
+// Texto
+$_['text_account']                 = 'Cuenta';
+$_['text_login']                   = 'Iniciar Sesión';
+$_['text_new_customer']            = 'Nuevo Cliente';
+$_['text_register']                = 'Registrar Cuenta';
+$_['text_register_account']        = 'Al crear una cuenta, podrás comprar más rápido, estar al tanto del estado de un pedido y hacer un seguimiento de los pedidos que hayas realizado anteriormente.';
+$_['text_returning_customer']      = 'Cliente Registrado';
+$_['text_i_am_returning_customer'] = 'Soy un cliente registrado';
+$_['text_forgotten']               = '¿Olvidaste tu Contraseña?';
 
-// Entry
-$_['entry_email']                  = 'E-Mail Address';
-$_['entry_password']               = 'Password';
+// Entrada
+$_['entry_email']                  = 'Dirección de Correo Electrónico';
+$_['entry_password']               = 'Contraseña';
 
 // Error
-$_['error_token']                  = 'Warning: Invalid token session. Please login again!';
-$_['error_login']                  = 'Warning: No match for E-Mail Address and/or Password.';
-$_['error_attempts']               = 'Warning: Your account has exceeded allowed number of login attempts. Please try again in 1 hour.';
-$_['error_approved']               = 'Warning: Your account requires approval before you can login.';
+$_['error_token']                  = 'Advertencia: Sesión de token no válida. ¡Por favor, inicia sesión nuevamente!';
+$_['error_login']                  = 'Advertencia: No se encontró coincidencia para la Dirección de Correo Electrónico y/o la Contraseña.';
+$_['error_attempts']               = 'Advertencia: Tu cuenta ha excedido el número permitido de intentos de inicio de sesión. Por favor, inténtalo de nuevo en 1 hora.';
+$_['error_approved']               = 'Advertencia: Tu cuenta requiere aprobación antes de que puedas iniciar sesión.';

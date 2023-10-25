@@ -1,29 +1,29 @@
 <?php
-// Heading
-$_['heading_title']         = 'Profile';
+// Encabezado
+$_['heading_title']         = 'Perfil';
 
-// Text
-$_['text_success']          = 'Success: You have modified your profile!';
-$_['text_edit']             = 'Edit Your Profile';
-$_['text_user']             = 'Users Details';
-$_['text_password']         = 'Password';
+// Texto
+$_['text_success']          = 'Éxito: ¡Has modificado tu perfil!';
+$_['text_edit']             = 'Editar tu perfil';
+$_['text_user']             = 'Detalles de Usuario';
+$_['text_password']         = 'Contraseña';
 
-// Entry
-$_['entry_username']        = 'Username';
-$_['entry_password']        = 'Password';
-$_['entry_confirm']         = 'Confirm';
-$_['entry_firstname']       = 'First Name';
-$_['entry_lastname']        = 'Last Name';
-$_['entry_email']           = 'E-Mail';
-$_['entry_image']           = 'Image';
+// Entrada
+$_['entry_username']        = 'Nombre de usuario';
+$_['entry_password']        = 'Contraseña';
+$_['entry_confirm']         = 'Confirmar';
+$_['entry_firstname']       = 'Nombre';
+$_['entry_lastname']        = 'Apellido';
+$_['entry_email']           = 'Correo electrónico';
+$_['entry_image']           = 'Imagen';
 
 // Error
-$_['error_permission']      = 'Warning: You do not have permission to modify your profile!';
-$_['error_username_exists'] = 'Warning: Username is already in use!';
-$_['error_username']        = 'Username must be between 3 and 20 characters!';
-$_['error_password']        = 'Password must be between 4 and 20 characters!';
-$_['error_confirm']         = 'Password and password confirmation do not match!';
-$_['error_firstname']       = 'First Name must be between 1 and 32 characters!';
-$_['error_lastname']        = 'Last Name must be between 1 and 32 characters!';
-$_['error_email']           = 'E-Mail Address does not appear to be valid!';
-$_['error_email_exists']    = 'Warning: E-Mail Address is already registered!';
+$_['error_permission']      = 'Advertencia: ¡No tienes permiso para modificar tu perfil!';
+$_['error_username_exists'] = 'Advertencia: ¡El nombre de usuario ya está en uso!';
+$_['error_username']        = 'El nombre de usuario debe tener entre 3 y 20 caracteres';
+$_['error_password']        = 'La contraseña debe tener entre 4 y 20 caracteres';
+$_['error_confirm']         = 'La contraseña y la confirmación de contraseña no coinciden';
+$_['error_firstname']       = 'El nombre debe tener entre 1 y 32 caracteres';
+$_['error_lastname']        = 'El apellido debe tener entre 1 y 32 caracteres';
+$_['error_email']           = 'La dirección de correo electrónico no parece ser válida';
+$_['error_email_exists']    = 'Advertencia: ¡La dirección de correo electrónico ya está registrada!';

@@ -1,8 +1,9 @@
 <?php
-// Text
-$_['text_subject']  = '%s - Product Review';
-$_['text_waiting']  = 'You have a new product review waiting.';
-$_['text_product']  = 'Product:';
-$_['text_reviewer'] = 'Reviewer:';
-$_['text_rating']   = 'Rating:';
-$_['text_review']   = 'Review Text:';
+// Texto
+$_['text_subject']  = '%s - Reseña de Producto';
+$_['text_waiting']  = 'Tienes una nueva reseña de producto pendiente.';
+$_['text_product']  = 'Producto:';
+$_['text_reviewer'] = 'Reseñador:';
+$_['text_rating']   = 'Valoración:';
+$_['text_review']   = 'Texto de la Reseña:';
+?>

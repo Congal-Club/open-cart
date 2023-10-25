@@ -1,16 +1,17 @@
 <?php
-// Heading
-$_['heading_title']    = 'Captchas';
+// Encabezado
+$_['heading_title']    = 'Captcha';
 
-// Text
-$_['text_success']     = 'Success: You have modified captchas!';
-$_['text_list']        = 'Captcha List';
+// Texto
+$_['text_success']     = 'Éxito: ¡Has modificado los captchas!';
+$_['text_list']        = 'Lista de Captchas';
 
-// Column
-$_['column_name']      = 'Captcha Name';
-$_['column_status']    = 'Status';
-$_['column_action']    = 'Action';
+// Columna
+$_['column_name']      = 'Nombre del Captcha';
+$_['column_status']    = 'Estado';
+$_['column_action']    = 'Acción';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify captchas!';
-$_['error_extension']  = 'Warning: Extension does not exist!';
+$_['error_permission'] = 'Advertencia: No tienes permiso para modificar los captchas.';
+$_['error_extension']  = 'Advertencia: ¡La extensión no existe!';
+?>

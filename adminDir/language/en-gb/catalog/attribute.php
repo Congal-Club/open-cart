@@ -1,27 +1,28 @@
 <?php
-// Heading
-$_['heading_title']          = 'Attributes';
+// Encabezado
+$_['heading_title']          = 'Atributos';
 
-// Text
-$_['text_success']           = 'Success: You have modified attributes!';
-$_['text_list']              = 'Attribute List';
-$_['text_add']               = 'Add Attribute';
-$_['text_edit']              = 'Edit Attribute';
+// Texto
+$_['text_success']           = 'Éxito: ¡Has modificado los atributos!';
+$_['text_list']              = 'Lista de Atributos';
+$_['text_add']               = 'Agregar Atributo';
+$_['text_edit']              = 'Editar Atributo';
 
-// Column
-$_['column_name']            = 'Attribute Name';
-$_['column_attribute_group'] = 'Attribute Group';
-$_['column_sort_order']      = 'Sort Order';
-$_['column_action']          = 'Action';
+// Columna
+$_['column_name']            = 'Nombre del Atributo';
+$_['column_attribute_group'] = 'Grupo de Atributos';
+$_['column_sort_order']      = 'Orden de Clasificación';
+$_['column_action']          = 'Acción';
 
-// Entry
-$_['entry_name']             = 'Attribute Name';
-$_['entry_attribute_group']  = 'Attribute Group';
-$_['entry_sort_order']       = 'Sort Order';
+// Entrada
+$_['entry_name']             = 'Nombre del Atributo';
+$_['entry_attribute_group']  = 'Grupo de Atributos';
+$_['entry_sort_order']       = 'Orden de Clasificación';
 
 // Error
-$_['error_warning']          = 'Warning: Please check the form carefully for errors!';
-$_['error_permission']       = 'Warning: You do not have permission to modify attributes!';
-$_['error_attribute_group']  = 'Attribute Group required!';
-$_['error_name']             = 'Attribute Name must be between 1 and 64 characters!';
-$_['error_product']          = 'Warning: This attribute cannot be deleted as it is currently assigned to %s products!';
+$_['error_warning']          = 'Advertencia: ¡Por favor, verifica cuidadosamente el formulario en busca de errores!';
+$_['error_permission']       = 'Advertencia: No tienes permiso para modificar atributos.';
+$_['error_attribute_group']  = '¡Se requiere un Grupo de Atributos!';
+$_['error_name']             = 'El nombre del Atributo debe tener entre 1 y 64 caracteres.';
+$_['error_product']          = 'Advertencia: No se puede eliminar este atributo, ya que está actualmente asignado a %s productos.';
+?>

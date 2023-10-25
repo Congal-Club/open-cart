@@ -1,3 +1,4 @@
 <?php
-// Heading
-$_['heading_title'] = 'Best Sellers';
+// Encabezado
+$_['heading_title'] = 'Más vendidos';
+?>

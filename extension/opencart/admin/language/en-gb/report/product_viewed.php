@@ -1,22 +1,23 @@
 <?php
-// Heading
-$_['heading_title']    = 'Products Viewed Report';
+// Encabezado
+$_['heading_title']    = 'Informe de Productos Vistos';
 
-// Text
-$_['text_extension']   = 'Extensions';
-$_['text_edit']        = 'Edit Products Viewed Report';
-$_['text_success']     = 'Success: You have reset the products viewed report!';
-$_['text_progress']    = 'Progressed %s of %s!';
+// Texto
+$_['text_extension']   = 'Extensiones';
+$_['text_edit']        = 'Editar Informe de Productos Vistos';
+$_['text_success']     = 'Éxito: ¡has restablecido el informe de productos vistos!';
+$_['text_progress']    = 'Progreso %s de %s';
 
-// Column
-$_['column_name']      = 'Product Name';
-$_['column_model']     = 'Model';
-$_['column_viewed']    = 'Viewed';
-$_['column_percent']   = 'Percent';
+// Columna
+$_['column_name']      = 'Nombre del Producto';
+$_['column_model']     = 'Modelo';
+$_['column_viewed']    = 'Vistos';
+$_['column_percent']   = 'Porcentaje';
 
-// Entry
-$_['entry_status']     = 'Status';
-$_['entry_sort_order'] = 'Sort Order';
+// Entrada
+$_['entry_status']     = 'Estado';
+$_['entry_sort_order'] = 'Orden de Clasificación';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify products viewed report!';
+$_['error_permission'] = 'Advertencia: no tienes permiso para modificar el informe de productos vistos!';
+?>

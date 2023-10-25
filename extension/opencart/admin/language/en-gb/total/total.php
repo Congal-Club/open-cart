@@ -1,15 +1,16 @@
 <?php
-// Heading
+// Encabezado
 $_['heading_title']    = 'Total';
 
-// Text
-$_['text_extension']   = 'Extensions';
-$_['text_success']     = 'Success: You have modified total totals!';
-$_['text_edit']        = 'Edit Total Total';
+// Texto
+$_['text_extension']   = 'Extensiones';
+$_['text_success']     = 'Éxito: has modificado los totales totales!';
+$_['text_edit']        = 'Editar Total Total';
 
-// Entry
-$_['entry_status']     = 'Status';
-$_['entry_sort_order'] = 'Sort Order';
+// Entradas
+$_['entry_status']     = 'Estado';
+$_['entry_sort_order'] = 'Orden de Clasificación';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify total totals!';
+$_['error_permission'] = 'Advertencia: ¡no tienes permiso para modificar los totales totales!';
+?>

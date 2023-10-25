@@ -1,14 +1,15 @@
 <?php
-// Heading
-$_['heading_title']    = 'Account';
+// Encabezado
+$_['heading_title']    = 'Cuenta';
 
-// Text
-$_['text_extension']   = 'Extensions';
-$_['text_success']     = 'Success: You have modified account module!';
-$_['text_edit']        = 'Edit Account Module';
+// Texto
+$_['text_extension']   = 'Extensiones';
+$_['text_success']     = 'Éxito: has modificado el módulo de cuenta!';
+$_['text_edit']        = 'Editar Módulo de Cuenta';
 
-// Entry
-$_['entry_status']     = 'Status';
+// Entrada
+$_['entry_status']     = 'Estado';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify account module!';
+$_['error_permission'] = 'Advertencia: no tienes permiso para modificar el módulo de cuenta!';
+?>

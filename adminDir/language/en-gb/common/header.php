@@ -3,13 +3,14 @@
 $_['heading_title']          = 'OpenCart';
 
 // Text
-$_['text_notification']      = 'Notifications';
-$_['text_notification_all']  = 'Show All';
-$_['text_notification_none'] = 'There are no notifications';
-$_['text_profile']           = 'Your Profile';
-$_['text_store']             = 'Stores';
-$_['text_help']              = 'Help';
-$_['text_homepage']          = 'OpenCart Homepage';
-$_['text_support']           = 'Support Forum';
-$_['text_documentation']     = 'Documentation';
-$_['text_logout']            = 'Logout';
+$_['text_notification']      = 'Notificaciones';
+$_['text_notification_all']  = 'Mostrar Todas';
+$_['text_notification_none'] = 'No hay notificaciones';
+$_['text_profile']           = 'Tu Perfil';
+$_['text_store']             = 'Tiendas';
+$_['text_help']              = 'Ayuda';
+$_['text_homepage']          = 'Página de inicio de OpenCart';
+$_['text_support']           = 'Foro de Soporte';
+$_['text_documentation']     = 'Documentación';
+$_['text_logout']            = 'Cerrar Sesión';
+?>

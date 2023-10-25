@@ -1,18 +1,19 @@
 <?php
-// Text
-$_['text_subject']        = '%s - Thank you for registering';
-$_['text_welcome']        = 'Welcome and thank you for registering at %s!';
-$_['text_login']          = 'Your account has now been created and you can log in by using your email address and password by visiting our website or at the following URL:';
-$_['text_approval']       = 'Your account must be approved before you can login. Once approved you can log in by using your email address and password by visiting our website or at the following URL:';
-$_['text_service']        = 'Upon logging in, you will be able to access other services including reviewing past orders, printing invoices and editing your account information.';
-$_['text_thanks']         = 'Thanks,';
-$_['text_new_customer']   = 'New customer';
-$_['text_signup']         = 'A new customer has signed up:';
-$_['text_customer_group'] = 'Customer Group:';
-$_['text_firstname']      = 'First Name:';
-$_['text_lastname']       = 'Last Name:';
-$_['text_email']          = 'E-Mail:';
-$_['text_telephone']      = 'Telephone:';
+// Texto
+$_['text_subject']        = '%s - Gracias por registrarte';
+$_['text_welcome']        = '¡Bienvenido y gracias por registrarte en %s!';
+$_['text_login']          = 'Tu cuenta ha sido creada y ahora puedes iniciar sesión utilizando tu dirección de correo electrónico y contraseña en nuestro sitio web o en la siguiente URL:';
+$_['text_approval']       = 'Tu cuenta debe ser aprobada antes de poder iniciar sesión. Una vez aprobada, puedes iniciar sesión utilizando tu dirección de correo electrónico y contraseña en nuestro sitio web o en la siguiente URL:';
+$_['text_service']        = 'Al iniciar sesión, podrás acceder a otros servicios, como revisar pedidos anteriores, imprimir facturas y editar tu información de cuenta.';
+$_['text_thanks']         = 'Gracias,';
+$_['text_new_customer']   = 'Nuevo cliente';
+$_['text_signup']         = 'Un nuevo cliente se ha registrado:';
+$_['text_customer_group'] = 'Grupo de Clientes:';
+$_['text_firstname']      = 'Nombre:';
+$_['text_lastname']       = 'Apellido:';
+$_['text_email']          = 'Correo Electrónico:';
+$_['text_telephone']      = 'Teléfono:';
 
-// Button
-$_['button_login']        = 'Login';
+// Botón
+$_['button_login']        = 'Iniciar Sesión';
+?>

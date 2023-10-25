@@ -1,3 +1,4 @@
 <?php
-// Heading
-$_['heading_title'] = 'Latest';
+// Encabezado
+$_['heading_title'] = 'Lo Último';
+?>

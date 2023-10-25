@@ -1,18 +1,19 @@
 <?php
-// Text
-$_['text_refine']      = 'Refine Search';
-$_['text_product']     = 'Products';
-$_['text_error']       = 'Category not found!';
-$_['text_no_results']  = 'There are no products to list in this category.';
-$_['text_compare']     = 'Product Compare (%s)';
-$_['text_sort']        = 'Sort By';
-$_['text_default']     = 'Default';
-$_['text_name_asc']    = 'Name (A - Z)';
-$_['text_name_desc']   = 'Name (Z - A)';
-$_['text_price_asc']   = 'Price (Low &gt; High)';
-$_['text_price_desc']  = 'Price (High &gt; Low)';
-$_['text_rating_asc']  = 'Rating (Lowest)';
-$_['text_rating_desc'] = 'Rating (Highest)';
-$_['text_model_asc']   = 'Model (A - Z)';
-$_['text_model_desc']  = 'Model (Z - A)';
-$_['text_limit']       = 'Show';
+// Texto
+$_['text_refine']      = 'Refinar búsqueda';
+$_['text_product']     = 'Productos';
+$_['text_error']       = '¡Categoría no encontrada!';
+$_['text_no_results']  = 'No hay productos para mostrar en esta categoría.';
+$_['text_compare']     = 'Comparar Producto (%s)';
+$_['text_sort']        = 'Ordenar por';
+$_['text_default']     = 'Por defecto';
+$_['text_name_asc']    = 'Nombre (A - Z)';
+$_['text_name_desc']   = 'Nombre (Z - A)';
+$_['text_price_asc']   = 'Precio (Bajo &gt; Alto)';
+$_['text_price_desc']  = 'Precio (Alto &gt; Bajo)';
+$_['text_rating_asc']  = 'Valoración (Más baja)';
+$_['text_rating_desc'] = 'Valoración (Más alta)';
+$_['text_model_asc']   = 'Modelo (A - Z)';
+$_['text_model_desc']  = 'Modelo (Z - A)';
+$_['text_limit']       = 'Mostrar';
+?>

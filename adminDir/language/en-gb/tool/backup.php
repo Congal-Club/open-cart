@@ -1,33 +1,33 @@
 <?php
-// Heading
-$_['heading_title']      = 'Backup &amp; Restore';
+// Título
+$_['heading_title']      = 'Copia de Seguridad y Restauración';
 
-// Text
-$_['text_success']       = 'Success: You have successfully modified your database!';
+// Texto
+$_['text_success']       = 'Éxito: ¡Has modificado la base de datos con éxito!';
 
-$_['text_backup']        = 'Backing up table %s records %s to %s records';
-$_['text_restore']       = 'Restoring %s of %s';
-$_['text_option']        = 'Backup Options';
-$_['text_history']       = 'Backup History';
-$_['text_progress']      = 'Progress';
-$_['text_import']        = 'For large backup files it is better to upload the SQL file via FTP to the <strong>~/storage/backup/</strong> directory.';
+$_['text_backup']        = 'Copia de seguridad de la tabla %s, registros de %s a %s';
+$_['text_restore']       = 'Restaurando %s de %s';
+$_['text_option']        = 'Opciones de Copia de Seguridad';
+$_['text_history']       = 'Historial de Copias de Seguridad';
+$_['text_progress']      = 'Progreso';
+$_['text_import']        = 'Para archivos de copia de seguridad grandes, es mejor cargar el archivo SQL a través de FTP en el directorio <strong>~/storage/backup/</strong>.';
 
-// Column
-$_['column_filename']    = 'Filename';
-$_['column_size']        = 'Size';
-$_['column_date_added']  = 'Date Added';
-$_['column_action']      = 'Action';
+// Columna
+$_['column_filename']    = 'Nombre de Archivo';
+$_['column_size']        = 'Tamaño';
+$_['column_date_added']  = 'Fecha de Creación';
+$_['column_action']      = 'Acción';
 
-// Entry
-$_['entry_progress']     = 'Progress';
-$_['entry_export']       = 'Export';
+// Entrada
+$_['entry_progress']     = 'Progreso';
+$_['entry_export']       = 'Exportar';
 
 // Error
-$_['error_permission']   = 'Warning: You do not have permission to modify Backup &amp; Restore!';
-$_['error_export']       = 'Warning: You must select at least one table to export!';
-$_['error_table']        = 'Table %s is not in the allowed list!';
-$_['error_file']         = 'File could not be found!';
-$_['error_directory']    = 'Directory could not be found!';
-$_['error_not_found']    = 'Error: Could not find file %s !';
-$_['error_headers_sent'] = 'Error: Headers already sent out!';
-$_['error_upload_size']  = 'Upload file cannot be larger than %s!';
+$_['error_permission']   = 'Advertencia: ¡No tienes permiso para modificar la Copia de Seguridad y Restauración!';
+$_['error_export']       = 'Advertencia: ¡Debes seleccionar al menos una tabla para exportar!';
+$_['error_table']        = 'La tabla %s no está en la lista permitida!';
+$_['error_file']         = '¡No se pudo encontrar el archivo!';
+$_['error_directory']    = '¡No se pudo encontrar el directorio!';
+$_['error_not_found']    = 'Error: ¡No se pudo encontrar el archivo %s!';
+$_['error_headers_sent'] = 'Error: ¡Los encabezados ya se enviaron!';
+$_['error_upload_size']  = '¡El archivo de carga no puede ser más grande que %s!';

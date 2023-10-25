@@ -1,50 +1,50 @@
 <?php
-// Heading
-$_['heading_title']         = 'Users';
+// Encabezado
+$_['heading_title']         = 'Usuarios';
 
-// Text
-$_['text_success']          = 'Success: You have modified users!';
-$_['text_list']             = 'User List';
-$_['text_add']              = 'Add User';
-$_['text_edit']             = 'Edit User';
-$_['text_user']             = 'Users Details';
-$_['text_password']         = 'Password';
-$_['text_other']            = 'Other';
-$_['text_login']            = 'Login History';
-$_['text_authorize']        = 'Authorize History';
+// Texto
+$_['text_success']          = 'Éxito: ¡Has modificado los usuarios!';
+$_['text_list']             = 'Lista de Usuarios';
+$_['text_add']              = 'Agregar Usuario';
+$_['text_edit']             = 'Editar Usuario';
+$_['text_user']             = 'Detalles del Usuario';
+$_['text_password']         = 'Contraseña';
+$_['text_other']            = 'Otros';
+$_['text_login']            = 'Historial de Inicio de Sesión';
+$_['text_authorize']        = 'Historial de Autorización';
 
-// Column
-$_['column_username']       = 'Username';
-$_['column_status']         = 'Status';
+// Columna
+$_['column_username']       = 'Nombre de Usuario';
+$_['column_status']         = 'Estado';
 $_['column_ip']             = 'IP';
-$_['column_user_agent']     = 'User Agent';
-$_['column_date_added']     = 'Date Added';
-$_['column_action']         = 'Action';
+$_['column_user_agent']     = 'Agente de Usuario';
+$_['column_date_added']     = 'Fecha de Creación';
+$_['column_action']         = 'Acción';
 
-// Entry
-$_['entry_username']        = 'Username';
-$_['entry_user_group']      = 'User Group';
-$_['entry_password']        = 'Password';
-$_['entry_confirm']         = 'Confirm';
-$_['entry_firstname']       = 'First Name';
-$_['entry_lastname']        = 'Last Name';
-$_['entry_email']           = 'E-Mail';
-$_['entry_image']           = 'Image';
-$_['entry_status']          = 'Status';
+// Entrada
+$_['entry_username']        = 'Nombre de Usuario';
+$_['entry_user_group']      = 'Grupo de Usuario';
+$_['entry_password']        = 'Contraseña';
+$_['entry_confirm']         = 'Confirmar';
+$_['entry_firstname']       = 'Nombre';
+$_['entry_lastname']        = 'Apellido';
+$_['entry_email']           = 'Correo Electrónico';
+$_['entry_image']           = 'Imagen';
+$_['entry_status']          = 'Estado';
 
-// Tab
-$_['tab_authorize']         = 'Authorize';
-$_['tab_login']             = 'Login';
+// Pestaña
+$_['tab_authorize']         = 'Autorización';
+$_['tab_login']             = 'Iniciar Sesión';
 
 // Error
-$_['error_permission']      = 'Warning: You do not have permission to modify users!';
-$_['error_account']         = 'Warning: You cannot delete your own account!';
-$_['error_login']           = 'Warning: User login does not exist!';
-$_['error_username']        = 'Username must be between 3 and 20 characters!';
-$_['error_username_exists'] = 'Warning: Username is already in use!';
-$_['error_firstname']       = 'First Name must be between 1 and 32 characters!';
-$_['error_lastname']        = 'Last Name must be between 1 and 32 characters!';
-$_['error_email']           = 'E-Mail Address does not appear to be valid!';
-$_['error_email_exists']    = 'Warning: E-Mail Address is already registered!';
-$_['error_password']        = 'Password must be between 4 and 20 characters!';
-$_['error_confirm']         = 'Password and password confirmation do not match!';
+$_['error_permission']      = 'Advertencia: ¡No tienes permiso para modificar los usuarios!';
+$_['error_account']         = 'Advertencia: ¡No puedes eliminar tu propia cuenta!';
+$_['error_login']           = 'Advertencia: ¡El inicio de sesión del usuario no existe!';
+$_['error_username']        = 'El nombre de usuario debe tener entre 3 y 20 caracteres';
+$_['error_username_exists'] = 'Advertencia: ¡El nombre de usuario ya está en uso!';
+$_['error_firstname']       = 'El Nombre debe tener entre 1 y 32 caracteres';
+$_['error_lastname']        = 'El Apellido debe tener entre 1 y 32 caracteres';
+$_['error_email']           = 'La dirección de correo electrónico no parece ser válida';
+$_['error_email_exists']    = 'Advertencia: ¡La dirección de correo electrónico ya está registrada!';
+$_['error_password']        = 'La contraseña debe tener entre 4 y 20 caracteres';
+$_['error_confirm']         = 'La contraseña y la confirmación de contraseña no coinciden';

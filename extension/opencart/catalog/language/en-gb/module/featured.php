@@ -1,3 +1,4 @@
 <?php
-// Heading
-$_['heading_title'] = 'Featured';
+// Encabezado
+$_['heading_title'] = 'Destacados';
+?>

@@ -1,28 +1,29 @@
 <?php
-// Heading
-$_['heading_title']      = 'Products Purchased Report';
+// Encabezado
+$_['heading_title']      = 'Informe de Productos Comprados';
 
-// Text
-$_['text_extension']     = 'Extensions';
-$_['text_edit']          = 'Edit Products Purchased Report';
-$_['text_success']       = 'Success: You have modified products purchased report!';
-$_['text_filter']        = 'Filter';
-$_['text_all_status']    = 'All Statuses';
+// Texto
+$_['text_extension']     = 'Extensiones';
+$_['text_edit']          = 'Editar Informe de Productos Comprados';
+$_['text_success']       = 'Éxito: ¡has modificado el informe de productos comprados!';
+$_['text_filter']        = 'Filtrar';
+$_['text_all_status']    = 'Todos los Estados';
 
-// Column
-$_['column_date_start']  = 'Date Start';
-$_['column_date_end']    = 'Date End';
-$_['column_name']        = 'Product Name';
-$_['column_model']       = 'Model';
-$_['column_quantity']    = 'Quantity';
+// Columna
+$_['column_date_start']  = 'Fecha de Inicio';
+$_['column_date_end']    = 'Fecha de Fin';
+$_['column_name']        = 'Nombre del Producto';
+$_['column_model']       = 'Modelo';
+$_['column_quantity']    = 'Cantidad';
 $_['column_total']       = 'Total';
 
-// Entry
-$_['entry_date_start']   = 'Date Start';
-$_['entry_date_end']     = 'Date End';
-$_['entry_order_status'] = 'Order Status';
-$_['entry_status']       = 'Status';
-$_['entry_sort_order']   = 'Sort Order';
+// Entrada
+$_['entry_date_start']   = 'Fecha de Inicio';
+$_['entry_date_end']     = 'Fecha de Fin';
+$_['entry_order_status'] = 'Estado del Pedido';
+$_['entry_status']       = 'Estado';
+$_['entry_sort_order']   = 'Orden de Clasificación';
 
 // Error
-$_['error_permission']   = 'Warning: You do not have permission to modify products purchased report!';
+$_['error_permission']   = 'Advertencia: no tienes permiso para modificar el informe de productos comprados!';
+?>

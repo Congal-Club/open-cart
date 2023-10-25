@@ -1,9 +1,10 @@
 <?php
-// Text
-$_['text_success']  = 'Success: Your reward points discount has been applied!';
-$_['text_remove']   = 'Success: Your reward points discount has been removed!';
+// Texto
+$_['text_success']  = 'Éxito: Se ha aplicado el descuento de puntos de recompensa!';
+$_['text_remove']   = 'Éxito: Se ha eliminado el descuento de puntos de recompensa!';
 
 // Error
-$_['error_reward']  = 'Warning: Please enter the amount of reward points to use!';
-$_['error_points']  = 'Warning: You don\'t have %s reward points!';
-$_['error_maximum'] = 'Warning: The maximum number of points that can be applied is %s!';
+$_['error_reward']  = 'Advertencia: Por favor, ingresa la cantidad de puntos de recompensa que deseas usar!';
+$_['error_points']  = 'Advertencia: ¡No tienes %s puntos de recompensa!';
+$_['error_maximum'] = 'Advertencia: ¡El máximo de puntos que se pueden aplicar es %s!';
+?>

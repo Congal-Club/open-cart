@@ -1,4 +1,5 @@
 <?php
-// Text
-$_['text_price'] = 'Price:';
-$_['text_tax']   = 'Ex Tax:';
+// Texto
+$_['text_price'] = 'Precio:';
+$_['text_tax']   = 'Impuesto:';
+?>

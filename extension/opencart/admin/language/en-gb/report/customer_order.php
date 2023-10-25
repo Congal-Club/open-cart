@@ -1,31 +1,32 @@
 <?php
-// Heading
-$_['heading_title']         = 'Customer Orders Report';
+// Encabezado
+$_['heading_title']         = 'Informe de Pedidos de Clientes';
 
-// Text
-$_['text_extension']        = 'Extensions';
-$_['text_edit']             = 'Edit Customer Orders Report';
-$_['text_success']          = 'Success: You have modified customer orders report!';
-$_['text_filter']           = 'Filter';
-$_['text_all_status']       = 'All Statuses';
+// Texto
+$_['text_extension']        = 'Extensiones';
+$_['text_edit']             = 'Editar Informe de Pedidos de Clientes';
+$_['text_success']          = 'Éxito: ¡has modificado el informe de pedidos de clientes!';
+$_['text_filter']           = 'Filtrar';
+$_['text_all_status']       = 'Todos los Estados';
 
-// Column
-$_['column_customer']       = 'Customer Name';
-$_['column_email']          = 'E-Mail';
-$_['column_customer_group'] = 'Customer Group';
-$_['column_status']         = 'Status';
-$_['column_orders']         = 'No. Orders';
-$_['column_products']       = 'No. Products';
+// Columna
+$_['column_customer']       = 'Nombre del Cliente';
+$_['column_email']          = 'Correo Electrónico';
+$_['column_customer_group'] = 'Grupo de Clientes';
+$_['column_status']         = 'Estado';
+$_['column_orders']         = 'Núm. de Pedidos';
+$_['column_products']       = 'Núm. de Productos';
 $_['column_total']          = 'Total';
-$_['column_action']         = 'Action';
+$_['column_action']         = 'Acción';
 
-// Entry
-$_['entry_date_start']      = 'Date Start';
-$_['entry_date_end']        = 'Date End';
-$_['entry_customer']        = 'Customer';
-$_['entry_order_status']    = 'Order Status';
-$_['entry_status']          = 'Status';
-$_['entry_sort_order']      = 'Sort Order';
+// Entrada
+$_['entry_date_start']      = 'Fecha de Inicio';
+$_['entry_date_end']        = 'Fecha de Fin';
+$_['entry_customer']        = 'Cliente';
+$_['entry_order_status']    = 'Estado del Pedido';
+$_['entry_status']          = 'Estado';
+$_['entry_sort_order']      = 'Orden de Clasificación';
 
 // Error
-$_['error_permission']      = 'Warning: You do not have permission to modify customer orders report!';
+$_['error_permission']      = 'Advertencia: no tienes permiso para modificar el informe de pedidos de clientes!';
+?>

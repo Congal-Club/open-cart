@@ -1,12 +1,13 @@
 <?php
-// Text
-$_['text_wishlist']      = 'Wish List (%s)';
-$_['text_shopping_cart'] = 'Shopping Cart';
-$_['text_account']       = 'My Account';
-$_['text_register']      = 'Register';
-$_['text_login']         = 'Login';
-$_['text_order']         = 'Order History';
-$_['text_transaction']   = 'Transactions';
-$_['text_download']      = 'Downloads';
-$_['text_logout']        = 'Logout';
-$_['text_checkout']      = 'Checkout';
+// Texto
+$_['text_wishlist']      = 'Lista de Deseos (%s)';
+$_['text_shopping_cart'] = 'Carrito de Compras';
+$_['text_account']       = 'Mi Cuenta';
+$_['text_register']      = 'Registro';
+$_['text_login']         = 'Iniciar Sesión';
+$_['text_order']         = 'Historial de Pedidos';
+$_['text_transaction']   = 'Transacciones';
+$_['text_download']      = 'Descargas';
+$_['text_logout']        = 'Cerrar Sesión';
+$_['text_checkout']      = 'Pagar';
+?>

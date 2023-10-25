@@ -1,7 +1,8 @@
 <?php
 // Text
-$_['text_subject'] = 'Reset security code attempts';
-$_['text_reset']   = 'Some one entered the security code wrongly more than 3 times.';
-$_['text_link']    = 'Click on the link below to reset account security:';
+$_['text_subject'] = 'Restablecer intentos de código de seguridad';
+$_['text_reset']   = 'Alguien ingresó incorrectamente el código de seguridad más de 3 veces.';
+$_['text_link']    = 'Haga clic en el enlace de abajo para restablecer la seguridad de la cuenta:';
 $_['text_ip']      = 'IP:';
-$_['text_regards'] = 'Best Regards';
+$_['text_regards'] = 'Atentamente';
+?>

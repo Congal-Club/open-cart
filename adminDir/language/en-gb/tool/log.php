@@ -1,13 +1,13 @@
 <?php
-// Heading
-$_['heading_title']    = 'Error Log';
+// Título
+$_['heading_title']    = 'Registro de Errores';
 
-// Text
-$_['text_success']     = 'Success: You have successfully cleared your error log!';
-$_['text_list']        = 'Errors List';
+// Texto
+$_['text_success']     = 'Éxito: ¡Has borrado con éxito tu registro de errores!';
+$_['text_list']        = 'Lista de Errores';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to clear error log!';
-$_['error_file']       = 'Warning: %s file could not be found!';
-$_['error_size']       = 'Warning: Error log file %s is %s!';
-$_['error_empty']      = 'Warning: Log file %s is empty!';
+$_['error_permission'] = 'Advertencia: ¡No tienes permiso para borrar el registro de errores!';
+$_['error_file']       = 'Advertencia: ¡No se pudo encontrar el archivo %s!';
+$_['error_size']       = 'Advertencia: ¡El archivo de registro de errores %s tiene un tamaño de %s!';
+$_['error_empty']      = 'Advertencia: ¡El archivo de registro %s está vacío!';

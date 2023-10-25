@@ -1,25 +1,25 @@
 <?php
-// Heading
-$_['heading_title']      = 'My Account Information';
+// Título
+$_['heading_title']      = 'Mi Información de Cuenta';
 
-// Text
-$_['text_account']       = 'Account';
-$_['text_edit']          = 'Edit Information';
-$_['text_your_details']  = 'Your Personal Details';
-$_['text_success']       = 'Success: Your account has been successfully updated.';
+// Texto
+$_['text_account']       = 'Cuenta';
+$_['text_edit']          = 'Editar Información';
+$_['text_your_details']  = 'Tus Datos Personales';
+$_['text_success']       = 'Éxito: Tu cuenta se ha actualizado correctamente.';
 
-// Entry
-$_['entry_firstname']    = 'First Name';
-$_['entry_lastname']     = 'Last Name';
-$_['entry_email']        = 'E-Mail';
-$_['entry_telephone']    = 'Telephone';
+// Entrada
+$_['entry_firstname']    = 'Nombre';
+$_['entry_lastname']     = 'Apellido';
+$_['entry_email']        = 'Correo Electrónico';
+$_['entry_telephone']    = 'Teléfono';
 
 // Error
-$_['error_token']        = 'Warning: Edit token invalid!';
-$_['error_exists']       = 'Warning: E-Mail address is already registered!';
-$_['error_firstname']    = 'First Name must be between 1 and 32 characters!';
-$_['error_lastname']     = 'Last Name must be between 1 and 32 characters!';
-$_['error_email']        = 'E-Mail Address does not appear to be valid!';
-$_['error_telephone']    = 'Telephone must be between 3 and 32 characters!';
-$_['error_custom_field'] = '%s required!';
-$_['error_regex']        = '%s is not a valid input!';
+$_['error_token']        = 'Advertencia: ¡Token de edición no válido!';
+$_['error_exists']       = 'Advertencia: ¡La dirección de correo electrónico ya está registrada!';
+$_['error_firstname']    = 'El Nombre debe tener entre 1 y 32 caracteres.';
+$_['error_lastname']     = 'El Apellido debe tener entre 1 y 32 caracteres.';
+$_['error_email']        = 'La Dirección de Correo Electrónico no parece ser válida.';
+$_['error_telephone']    = 'El Teléfono debe tener entre 3 y 32 caracteres.';
+$_['error_custom_field'] = '¡%s es obligatorio!';
+$_['error_regex']        = '¡%s no es una entrada válida!';

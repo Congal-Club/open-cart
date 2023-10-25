@@ -1,19 +1,20 @@
 <?php
-// Heading
-$_['heading_title']      = 'Cheque / Money Order';
+// Encabezado
+$_['heading_title']      = 'Cheque / Giro Postal';
 
-// Text
-$_['text_extension']     = 'Extensions';
-$_['text_success']       = 'Success: You have modified cheque / money order account details!';
-$_['text_edit']          = 'Edit Cheque / Money Order';
+// Texto
+$_['text_extension']     = 'Extensiones';
+$_['text_success']       = 'Éxito: ¡has modificado los detalles de la cuenta de cheque / giro postal!';
+$_['text_edit']          = 'Editar Cheque / Giro Postal';
 
-// Entry
-$_['entry_payable']      = 'Payable To';
-$_['entry_order_status'] = 'Order Status';
-$_['entry_geo_zone']     = 'Geo Zone';
-$_['entry_status']       = 'Status';
-$_['entry_sort_order']   = 'Sort Order';
+// Entrada
+$_['entry_payable']      = 'A nombre de';
+$_['entry_order_status'] = 'Estado del Pedido';
+$_['entry_geo_zone']     = 'Zona Geográfica';
+$_['entry_status']       = 'Estado';
+$_['entry_sort_order']   = 'Orden de Clasificación';
 
 // Error
-$_['error_permission']   = 'Warning: You do not have permission to modify payment cheque / money order!';
-$_['error_payable']      = 'Payable To required!';
+$_['error_permission']   = 'Advertencia: ¡no tienes permiso para modificar el método de pago cheque / giro postal!';
+$_['error_payable']      = 'A nombre de es obligatorio!';
+?>

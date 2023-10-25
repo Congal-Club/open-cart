@@ -1,15 +1,16 @@
 <?php
-// Heading
-$_['heading_title']    = 'Gift Voucher';
+// Encabezado
+$_['heading_title']    = 'Vale de Regalo';
 
-// Text
-$_['text_extension']   = 'Extensions';
-$_['text_success']     = 'Success: You have modified gift voucher total!';
-$_['text_edit']        = 'Edit Gift Voucher Total';
+// Texto
+$_['text_extension']   = 'Extensiones';
+$_['text_success']     = 'Éxito: has modificado el total de vales de regalo!';
+$_['text_edit']        = 'Editar Total de Vales de Regalo';
 
-// Entry
-$_['entry_status']     = 'Status';
-$_['entry_sort_order'] = 'Sort Order';
+// Entradas
+$_['entry_status']     = 'Estado';
+$_['entry_sort_order'] = 'Orden de Clasificación';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify gift voucher total!';
+$_['error_permission'] = 'Advertencia: ¡no tienes permiso para modificar el total de vales de regalo!';
+?>

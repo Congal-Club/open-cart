@@ -1,6 +1,7 @@
 <?php
-// Text
-$_['text_success'] = 'Success: Store has been changed!';
+// Texto
+$_['text_success'] = 'Éxito: ¡La tienda ha sido modificada!';
 
 // Error
-$_['error_store']  = 'Warning: Store could not be found!';
+$_['error_store']  = 'Advertencia: ¡No se pudo encontrar la tienda!';
+?>

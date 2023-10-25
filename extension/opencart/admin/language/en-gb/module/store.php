@@ -1,15 +1,16 @@
 <?php
-// Heading
-$_['heading_title']    = 'Store';
+// Encabezado
+$_['heading_title']    = 'Tienda';
 
-// Text
-$_['text_extension']   = 'Extensions';
-$_['text_success']     = 'Success: You have modified store module!';
-$_['text_edit']        = 'Edit Store Module';
+// Texto
+$_['text_extension']   = 'Extensiones';
+$_['text_success']     = 'Éxito: has modificado el módulo de Tienda!';
+$_['text_edit']        = 'Editar Módulo de Tienda';
 
-// Entry
-$_['entry_admin']      = 'Admin Users Only';
-$_['entry_status']     = 'Status';
+// Entrada
+$_['entry_admin']      = 'Solo Usuarios de Administración';
+$_['entry_status']     = 'Estado';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify store module!';
+$_['error_permission'] = 'Advertencia: no tienes permiso para modificar el módulo de Tienda!';
+?>

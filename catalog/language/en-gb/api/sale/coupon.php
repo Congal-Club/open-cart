@@ -1,7 +1,8 @@
 <?php
-// Text
-$_['text_success'] = 'Success: Your coupon discount has been applied!';
-$_['text_remove']  = 'Success: Your coupon discount has been removed!';
+// Texto
+$_['text_success'] = 'Éxito: ¡Se ha aplicado el descuento de tu cupón!';
+$_['text_remove']  = 'Éxito: ¡Se ha eliminado el descuento de tu cupón!';
 
 // Error
-$_['error_coupon'] = 'Warning: Coupon is either invalid, expired or reached it\'s usage limit!';
+$_['error_coupon'] = 'Advertencia: ¡El cupón es inválido, ha caducado o ha alcanzado su límite de uso!';
+?>

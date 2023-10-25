@@ -1,10 +1,11 @@
 <?php
 // Text
-$_['text_success']  = 'Success: You have modified vouchers!';
-$_['text_subject']  = 'You have been sent a gift certificate from %s';
-$_['text_greeting'] = 'Congratulations, You have received a Gift Certificate worth %s';
-$_['text_from']     = 'This Gift Certificate has been sent to you by %s';
-$_['text_message']  = 'With a message saying';
-$_['text_redeem']   = 'In the first place, to redeem this Gift Certificate, write down the redemption code which is <b>%s</b>. Then, click on the link below and purchase the product you wish to use this gift certificate. Lastly, you can enter the gift certificate code on the <b>Shopping Cart</b> page before you click: <b>Checkout</b>.';
-$_['text_footer']   = 'Please reply to this email if you have any questions.';
-$_['text_sent']     = 'Success: Gift Voucher e-mail has been sent!';
+$_['text_success']  = 'Éxito: ¡Has modificado los vales!';
+$_['text_subject']  = 'Has recibido un vale regalo de %s';
+$_['text_greeting'] = '¡Felicidades! Has recibido un Vale Regalo por un valor de %s';
+$_['text_from']     = 'Este Vale Regalo te ha sido enviado por %s';
+$_['text_message']  = 'Con el siguiente mensaje';
+$_['text_redeem']   = 'Para canjear este Vale Regalo, primero anota el código de canje que es <b>%s</b>. Luego, haz clic en el enlace de abajo y compra el producto que deseas usando este Vale Regalo. Por último, puedes ingresar el código del Vale Regalo en la página del <b>Carrito de Compras</b> antes de hacer clic en <b>Realizar Compra</b>.';
+$_['text_footer']   = 'Por favor, responde a este correo si tienes alguna pregunta.';
+$_['text_sent']     = 'Éxito: ¡El correo electrónico del Vale Regalo ha sido enviado!';
+?>

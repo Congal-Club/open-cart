@@ -1,77 +1,78 @@
 <?php
 // Heading
-$_['heading_title']             = 'Affiliates';
+$_['heading_title']             = 'Afiliados';
 
 // Text
-$_['text_success']              = 'Success: You have modified affiliates!';
-$_['text_list']                 = 'Affiliate List';
-$_['text_add']                  = 'Add Affiliate';
-$_['text_edit']                 = 'Edit Affiliate';
-$_['text_affiliate']            = 'Affiliate Details';
-$_['text_payment']              = 'Payment Details';
-$_['text_other']                = 'Other';
+$_['text_success']              = 'Éxito: ¡Has modificado a los afiliados!';
+$_['text_list']                 = 'Lista de Afiliados';
+$_['text_add']                  = 'Agregar Afiliado';
+$_['text_edit']                 = 'Editar Afiliado';
+$_['text_affiliate']            = 'Detalles del Afiliado';
+$_['text_payment']              = 'Detalles de Pago';
+$_['text_other']                = 'Otros';
 $_['text_balance']              = 'Balance';
 $_['text_cheque']               = 'Cheque';
 $_['text_paypal']               = 'PayPal';
-$_['text_bank']                 = 'Bank Transfer';
-$_['text_history']              = 'History';
-$_['text_history_add']          = 'Add History';
-$_['text_transaction']          = 'Transactions';
-$_['text_transaction_add']      = 'Add Transaction';
-$_['text_report']               = 'Reports';
-$_['text_filter']               = 'Filter';
+$_['text_bank']                 = 'Transferencia Bancaria';
+$_['text_history']              = 'Historial';
+$_['text_history_add']          = 'Agregar Historial';
+$_['text_transaction']          = 'Transacciones';
+$_['text_transaction_add']      = 'Agregar Transacción';
+$_['text_report']               = 'Informes';
+$_['text_filter']               = 'Filtrar';
 
 // Column
-$_['column_name']               = 'Customer Name';
-$_['column_tracking']           = 'Tracking';
-$_['column_commission']         = 'Commission';
+$_['column_name']               = 'Nombre del Cliente';
+$_['column_tracking']           = 'Código de Seguimiento';
+$_['column_commission']         = 'Comisión';
 $_['column_balance']            = 'Balance';
-$_['column_status']             = 'Status';
+$_['column_status']             = 'Estado';
 $_['column_ip']                 = 'IP';
-$_['column_account']            = 'Accounts';
-$_['column_store']              = 'Store';
-$_['column_country']            = 'Country';
-$_['column_date_added']         = 'Date Added';
-$_['column_comment']            = 'Comment';
-$_['column_description']        = 'Description';
-$_['column_amount']             = 'Amount';
-$_['column_action']             = 'Action';
+$_['column_account']            = 'Cuentas';
+$_['column_store']              = 'Tienda';
+$_['column_country']            = 'País';
+$_['column_date_added']         = 'Fecha de Registro';
+$_['column_comment']            = 'Comentario';
+$_['column_description']        = 'Descripción';
+$_['column_amount']             = 'Cantidad';
+$_['column_action']             = 'Acción';
 
 // Entry
-$_['entry_customer']            = 'Customer';
-$_['entry_status']              = 'Status';
-$_['entry_company']             = 'Company';
-$_['entry_tracking']            = 'Tracking Code';
-$_['entry_website']             = 'Web Site';
-$_['entry_commission']          = 'Commission (%)';
-$_['entry_tax']                 = 'Tax ID';
-$_['entry_payment']             = 'Payment Method';
-$_['entry_cheque']              = 'Cheque Payee Name';
-$_['entry_paypal']              = 'PayPal Email Account';
-$_['entry_bank_name']           = 'Bank Name';
-$_['entry_bank_branch_number']  = 'ABA/BSB number (Branch Number)';
-$_['entry_bank_swift_code']     = 'SWIFT Code';
-$_['entry_bank_account_name']   = 'Account Name';
-$_['entry_bank_account_number'] = 'Account Number';
-$_['entry_comment']             = 'Comment';
-$_['entry_description']         = 'Description';
-$_['entry_amount']              = 'Amount';
-$_['entry_date_from']           = 'Date From';
-$_['entry_date_to']             = 'Date To';
+$_['entry_customer']            = 'Cliente';
+$_['entry_status']              = 'Estado';
+$_['entry_company']             = 'Compañía';
+$_['entry_tracking']            = 'Código de Seguimiento';
+$_['entry_website']             = 'Sitio Web';
+$_['entry_commission']          = 'Comisión (%)';
+$_['entry_tax']                 = 'ID de Impuesto';
+$_['entry_payment']             = 'Método de Pago';
+$_['entry_cheque']              = 'Nombre del Beneficiario del Cheque';
+$_['entry_paypal']              = 'Correo Electrónico de PayPal';
+$_['entry_bank_name']           = 'Nombre del Banco';
+$_['entry_bank_branch_number']  = 'Número ABA/BSB (Número de Sucursal)';
+$_['entry_bank_swift_code']     = 'Código SWIFT';
+$_['entry_bank_account_name']   = 'Nombre de la Cuenta';
+$_['entry_bank_account_number'] = 'Número de Cuenta';
+$_['entry_comment']             = 'Comentario';
+$_['entry_description']         = 'Descripción';
+$_['entry_amount']              = 'Cantidad';
+$_['entry_date_from']           = 'Fecha Desde';
+$_['entry_date_to']             = 'Fecha Hasta';
 
 // Help
-$_['help_tracking']             = 'The tracking code that will be used to track referrals.';
-$_['help_commission']           = 'Percentage the affiliate receives on each order.';
+$_['help_tracking']             = 'El código de seguimiento que se utilizará para rastrear las referencias.';
+$_['help_commission']           = 'Porcentaje que el afiliado recibe en cada pedido.';
 
 // Error
-$_['error_warning']             = 'Warning: Please check the form carefully for errors!';
-$_['error_permission']          = 'Warning: You do not have permission to modify affiliates!';
-$_['error_customer']            = 'Warning: Customer required!';
-$_['error_already']             = 'Warning: Customer is already registered as an affiliate!';
-$_['error_tracking']            = 'Tracking Code required!';
-$_['error_exists']              = 'Tracking code is being used by another affiliate!';
-$_['error_cheque']              = 'Cheque Payee Name required!';
-$_['error_paypal']              = 'PayPal Email Address does not appear to be valid!';
-$_['error_bank_account_name']   = 'Account Name required!';
-$_['error_bank_account_number'] = 'Account Number required!';
-$_['error_custom_field']        = '%s required!';
+$_['error_warning']             = 'Advertencia: ¡Por favor, verifica el formulario en busca de errores!';
+$_['error_permission']          = 'Advertencia: ¡No tienes permiso para modificar a los afiliados!';
+$_['error_customer']            = 'Advertencia: ¡Se requiere un cliente!';
+$_['error_already']             = 'Advertencia: ¡El cliente ya está registrado como afiliado!';
+$_['error_tracking']            = 'Advertencia: ¡Se requiere un Código de Seguimiento!';
+$_['error_exists']              = 'Advertencia: ¡El Código de Seguimiento ya está siendo utilizado por otro afiliado!';
+$_['error_cheque']              = 'Advertencia: ¡Se requiere el Nombre del Beneficiario del Cheque!';
+$_['error_paypal']              = 'Advertencia: ¡La dirección de correo electrónico de PayPal no parece ser válida!';
+$_['error_bank_account_name']   = 'Advertencia: ¡Se requiere el Nombre de la Cuenta!';
+$_['error_bank_account_number'] = 'Advertencia: ¡Se requiere el Número de Cuenta!';
+$_['error_custom_field']        = 'Advertencia: ¡Se requiere %s!';
+?>

@@ -1,6 +1,7 @@
 <?php
-// Heading
-$_['heading_title'] = 'Checkout';
+// Encabezado
+$_['heading_title'] = 'Pasar por Caja';
 
-// Text
-$_['text_cart']     = 'Shopping Cart';
+// Texto
+$_['text_cart']     = 'Carrito de Compras';
+?>

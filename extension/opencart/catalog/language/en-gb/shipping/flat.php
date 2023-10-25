@@ -1,6 +1,7 @@
 <?php
-// Heading
-$_['heading_title']    = 'Flat Rate';
+// Encabezado
+$_['heading_title']    = 'Tarifa Plana';
 
-// Text
-$_['text_description'] = 'Flat Shipping Rate';
+// Texto
+$_['text_description'] = 'Tarifa Plana de Envío';
+?>

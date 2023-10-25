@@ -1,30 +1,31 @@
 <?php
-// Heading
-$_['heading_title']          = 'Zones';
+// Encabezado
+$_['heading_title']          = 'Zonas';
 
-// Text
-$_['text_success']           = 'Success: You have modified zones!';
-$_['text_list']              = 'Zone List';
-$_['text_add']               = 'Add Zone';
-$_['text_edit']              = 'Edit Zone';
-$_['text_filter']            = 'Filter';
+// Texto
+$_['text_success']           = 'Éxito: ¡has modificado las zonas!';
+$_['text_list']              = 'Lista de Zonas';
+$_['text_add']               = 'Agregar Zona';
+$_['text_edit']              = 'Editar Zona';
+$_['text_filter']            = 'Filtrar';
 
-// Column
-$_['column_name']            = 'Zone Name';
-$_['column_code']            = 'Zone Code';
-$_['column_country']         = 'Country';
-$_['column_action']          = 'Action';
+// Columna
+$_['column_name']            = 'Nombre de la Zona';
+$_['column_code']            = 'Código de la Zona';
+$_['column_country']         = 'País';
+$_['column_action']          = 'Acción';
 
-// Entry
-$_['entry_name']             = 'Zone Name';
-$_['entry_code']             = 'Zone Code';
-$_['entry_country']          = 'Country';
-$_['entry_status']           = 'Status';
+// Entrada
+$_['entry_name']             = 'Nombre de la Zona';
+$_['entry_code']             = 'Código de la Zona';
+$_['entry_country']          = 'País';
+$_['entry_status']           = 'Estado';
 
 // Error
-$_['error_permission']       = 'Warning: You do not have permission to modify zones!';
-$_['error_name']             = 'Zone Name must be between 1 and 128 characters!';
-$_['error_default']          = 'Warning: This zone cannot be deleted as it is currently assigned as the default store zone!';
-$_['error_store']            = 'Warning: This zone cannot be deleted as it is currently assigned to %s stores!';
-$_['error_address']          = 'Warning: This zone cannot be deleted as it is currently assigned to %s address book entries!';
-$_['error_zone_to_geo_zone'] = 'Warning: This zone cannot be deleted as it is currently assigned to %s zones to geo zones!';
+$_['error_permission']       = 'Advertencia: no tienes permiso para modificar zonas!';
+$_['error_name']             = 'El Nombre de la Zona debe tener entre 1 y 128 caracteres!';
+$_['error_default']          = 'Advertencia: no se puede eliminar esta zona, ya que actualmente está asignada como la zona por defecto de la tienda!';
+$_['error_store']            = 'Advertencia: no se puede eliminar esta zona, ya que actualmente está asignada a %s tiendas!';
+$_['error_address']          = 'Advertencia: no se puede eliminar esta zona, ya que actualmente está asignada a %s entradas de la libreta de direcciones!';
+$_['error_zone_to_geo_zone'] = 'Advertencia: no se puede eliminar esta zona, ya que actualmente está asignada a %s zonas a geo zonas!';
+?>

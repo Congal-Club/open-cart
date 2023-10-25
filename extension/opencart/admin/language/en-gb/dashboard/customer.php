@@ -1,17 +1,18 @@
 <?php
-// Heading
-$_['heading_title']    = 'Total Customers';
+// Encabezado
+$_['heading_title']    = 'Total de Clientes';
 
-// Text
-$_['text_extension']   = 'Extensions';
-$_['text_success']     = 'Success: You have modified dashboard customer!';
-$_['text_edit']        = 'Edit Dashboard Customer';
-$_['text_view']        = 'View more...';
+// Texto
+$_['text_extension']   = 'Extensiones';
+$_['text_success']     = 'Éxito: has modificado el módulo de clientes del panel de control.';
+$_['text_edit']        = 'Editar Módulo de Clientes del Panel de Control';
+$_['text_view']        = 'Ver más...';
 
-// Entry
-$_['entry_status']     = 'Status';
-$_['entry_sort_order'] = 'Sort Order';
-$_['entry_width']      = 'Width';
+// Entrada
+$_['entry_status']     = 'Estado';
+$_['entry_sort_order'] = 'Orden de Clasificación';
+$_['entry_width']      = 'Ancho';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify dashboard customer!';
+$_['error_permission'] = 'Advertencia: no tienes permiso para modificar el módulo de clientes del panel de control.';
+?>

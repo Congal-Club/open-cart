@@ -1,38 +1,39 @@
 <?php
-// Heading
-$_['heading_title']     = 'Languages';
+// Encabezado
+$_['heading_title']     = 'Idiomas';
 
-// Text
-$_['text_success']      = 'Success: You have modified languages!';
-$_['text_list']         = 'Language List';
-$_['text_add']          = 'Add Language';
-$_['text_edit']         = 'Edit Language';
+// Texto
+$_['text_success']      = 'Éxito: Has modificado los idiomas correctamente!';
+$_['text_list']         = 'Lista de Idiomas';
+$_['text_add']          = 'Agregar Idioma';
+$_['text_edit']         = 'Editar Idioma';
 
-// Column
-$_['column_name']       = 'Language Name';
-$_['column_code']       = 'Code';
-$_['column_sort_order'] = 'Sort Order';
-$_['column_action']     = 'Action';
+// Columna
+$_['column_name']       = 'Nombre del Idioma';
+$_['column_code']       = 'Código';
+$_['column_sort_order'] = 'Orden de Clasificación';
+$_['column_action']     = 'Acción';
 
-// Entry
-$_['entry_name']        = 'Language Name';
-$_['entry_code']        = 'Code';
-$_['entry_extension']   = 'Extension';
-$_['entry_locale']      = 'Locale';
-$_['entry_status']      = 'Status';
-$_['entry_sort_order']  = 'Sort Order';
+// Entrada
+$_['entry_name']        = 'Nombre del Idioma';
+$_['entry_code']        = 'Código';
+$_['entry_extension']   = 'Extensión';
+$_['entry_locale']      = 'Configuración regional';
+$_['entry_status']      = 'Estado';
+$_['entry_sort_order']  = 'Orden de Clasificación';
 
-// Help
-$_['help_locale']       = 'Example: en_US.UTF-8,en_US,en-gb,en_gb,english';
-$_['help_status']       = 'Hide/Show it in language dropdown';
+// Ayuda
+$_['help_locale']       = 'Ejemplo: es_ES.UTF-8,es_ES,es,spanish';
+$_['help_status']       = 'Ocultar/Mostrar en el menú desplegable de idiomas';
 
 // Error
-$_['error_permission']  = 'Warning: You do not have permission to modify languages!';
-$_['error_exists']      = 'Warning: You have already added this language!';
-$_['error_name']        = 'Language Name must be between 1 and 32 characters!';
-$_['error_code']        = 'Language Code must be between 2 and 5 characters!';
-$_['error_locale']      = 'Locale required!';
-$_['error_default']     = 'Warning: This language cannot be deleted as it is currently assigned as the default store language!';
-$_['error_admin']       = 'Warning: This Language cannot be deleted as it is currently assigned as the administration language!';
-$_['error_store']       = 'Warning: This language cannot be deleted as it is currently assigned to %s stores!';
-$_['error_order']       = 'Warning: This language cannot be deleted as it is currently assigned to %s orders!';
+$_['error_permission']  = 'Advertencia: No tienes permiso para modificar los idiomas!';
+$_['error_exists']      = 'Advertencia: Ya has agregado este idioma!';
+$_['error_name']        = 'El Nombre del Idioma debe tener entre 1 y 32 caracteres!';
+$_['error_code']        = 'El Código del Idioma debe tener entre 2 y 5 caracteres!';
+$_['error_locale']      = 'Se requiere Configuración regional!';
+$_['error_default']     = 'Advertencia: No se puede eliminar este idioma, ya que actualmente está asignado como el idioma predeterminado de la tienda!';
+$_['error_admin']       = 'Advertencia: No se puede eliminar este idioma, ya que actualmente está asignado como el idioma de administración!';
+$_['error_store']       = 'Advertencia: No se puede eliminar este idioma, ya que actualmente está asignado a %s tiendas!';
+$_['error_order']       = 'Advertencia: No se puede eliminar este idioma, ya que actualmente está asignado a %s pedidos!';
+?>

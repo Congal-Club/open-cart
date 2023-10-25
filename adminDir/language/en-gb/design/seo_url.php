@@ -1,41 +1,42 @@
 <?php
 // Heading
-$_['heading_title']           = 'SEO URL';
+$_['heading_title']           = 'URL SEO';
 
 // Text
-$_['text_success']            = 'Success: You have modified SEO URL!';
-$_['text_list']               = 'SEO URL List';
-$_['text_add']                = 'Add SEO URL';
-$_['text_edit']               = 'Edit SEO URL';
-$_['text_filter']             = 'Filter';
-$_['text_default']            = 'Default';
+$_['text_success']            = 'Éxito: ¡Has modificado las URL SEO!';
+$_['text_list']               = 'Lista de URL SEO';
+$_['text_add']                = 'Agregar URL SEO';
+$_['text_edit']               = 'Editar URL SEO';
+$_['text_filter']             = 'Filtrar';
+$_['text_default']            = 'Predeterminado';
 
 // Column
-$_['column_key']              = 'Key';
-$_['column_value']            = 'Value';
-$_['column_keyword']          = 'Keyword';
-$_['column_store']            = 'Store';
-$_['column_language']         = 'Language';
-$_['column_action']           = 'Action';
+$_['column_key']              = 'Clave';
+$_['column_value']            = 'Valor';
+$_['column_keyword']          = 'Palabra Clave';
+$_['column_store']            = 'Tienda';
+$_['column_language']         = 'Idioma';
+$_['column_action']           = 'Acción';
 
 // Entry
-$_['entry_store']             = 'Store';
-$_['entry_language']          = 'Language';
-$_['entry_key']               = 'Key';
-$_['entry_value']             = 'Value';
-$_['entry_keyword']           = 'Keyword';
-$_['entry_sort_order']        = 'Sort Order';
+$_['entry_store']             = 'Tienda';
+$_['entry_language']          = 'Idioma';
+$_['entry_key']               = 'Clave';
+$_['entry_value']             = 'Valor';
+$_['entry_keyword']           = 'Palabra Clave';
+$_['entry_sort_order']        = 'Orden de Clasificación';
 
 // Help
-$_['help_keyword']            = 'Make sure you only use characters in the a-z or 0-9 use and - or _ for spaces. Use / for categories.';
-$_['help_sort_order']         = 'The sort order of the keywords in the URL.';
+$_['help_keyword']            = 'Asegúrate de utilizar solo caracteres de la a-z o 0-9 y - o _ para espacios. Utiliza / para categorías.';
+$_['help_sort_order']         = 'El orden de clasificación de las palabras clave en la URL.';
 
 // Error
-$_['error_permission']        = 'Warning: You do not have permission to modify SEO URL!';
-$_['error_exists']            = 'Warning: Combination of store, language key, value, keyword already exists!';
-$_['error_key']               = 'Key must be between 1 and 64 characters!';
-$_['error_value']             = 'Value must be between 1 and 255 characters!';
-$_['error_value_exists']      = 'Value is already in use!';
-$_['error_keyword']           = 'Keyword must be between 3 and 64 characters!';
-$_['error_keyword_exists']    = 'Keyword is already in use!';
-$_['error_keyword_character'] = 'Keyword can only use characters a-z, 0-9, - and _!';
+$_['error_permission']        = 'Advertencia: ¡No tienes permiso para modificar las URL SEO!';
+$_['error_exists']            = 'Advertencia: ¡La combinación de tienda, idioma, clave, valor y palabra clave ya existe!';
+$_['error_key']               = 'La clave debe tener entre 1 y 64 caracteres.';
+$_['error_value']             = 'El valor debe tener entre 1 y 255 caracteres.';
+$_['error_value_exists']      = '¡El valor ya está en uso!';
+$_['error_keyword']           = 'La palabra clave debe tener entre 3 y 64 caracteres.';
+$_['error_keyword_exists']    = '¡La palabra clave ya está en uso!';
+$_['error_keyword_character'] = '¡La palabra clave solo puede usar caracteres a-z, 0-9, - y _!';
+?>

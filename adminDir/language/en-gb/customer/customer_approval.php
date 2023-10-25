@@ -1,32 +1,33 @@
 <?php
 // Heading
-$_['heading_title']         = 'Customer Approvals';
+$_['heading_title']         = 'Aprobaciones de Clientes';
 
 // Text
-$_['text_success']          = 'Success: You have modified customer approvals!';
-$_['text_list']             = 'Customer Approval List';
-$_['text_default']          = 'Default';
-$_['text_customer']         = 'Customer';
-$_['text_affiliate']        = 'Affiliate';
-$_['text_filter']           = 'Filter';
-$_['text_approve']          = 'Approve';
-$_['text_deny']             = 'Deny';
+$_['text_success']          = 'Éxito: ¡Has modificado las aprobaciones de clientes!';
+$_['text_list']             = 'Lista de Aprobaciones de Clientes';
+$_['text_default']          = 'Predeterminado';
+$_['text_customer']         = 'Cliente';
+$_['text_affiliate']        = 'Afiliado';
+$_['text_filter']           = 'Filtro';
+$_['text_approve']          = 'Aprobar';
+$_['text_deny']             = 'Denegar';
 
 // Column
-$_['column_customer']       = 'Customer';
-$_['column_email']          = 'E-Mail';
-$_['column_customer_group'] = 'Customer Group';
-$_['column_type']           = 'Type';
-$_['column_date_added']     = 'Date Added';
-$_['column_action']         = 'Action';
+$_['column_customer']       = 'Cliente';
+$_['column_email']          = 'Correo Electrónico';
+$_['column_customer_group'] = 'Grupo de Clientes';
+$_['column_type']           = 'Tipo';
+$_['column_date_added']     = 'Fecha de Creación';
+$_['column_action']         = 'Acción';
 
 // Entry
-$_['entry_customer']        = 'Customer';
-$_['entry_email']           = 'E-Mail';
-$_['entry_customer_group']  = 'Customer Group';
-$_['entry_type']            = 'Type';
-$_['entry_date_from']       = 'Date From';
-$_['entry_date_to']         = 'Date To';
+$_['entry_customer']        = 'Cliente';
+$_['entry_email']           = 'Correo Electrónico';
+$_['entry_customer_group']  = 'Grupo de Clientes';
+$_['entry_type']            = 'Tipo';
+$_['entry_date_from']       = 'Fecha Desde';
+$_['entry_date_to']         = 'Fecha Hasta';
 
 // Error
-$_['error_permission']      = 'Warning: You do not have permission to modify customer approvals!';
+$_['error_permission']      = 'Advertencia: ¡No tienes permiso para modificar las aprobaciones de clientes!';
+?>

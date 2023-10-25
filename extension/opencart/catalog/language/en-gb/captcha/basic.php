@@ -1,9 +1,10 @@
 <?php
-// Text
+// Texto
 $_['text_captcha']  = 'Captcha';
 
-// Entry
-$_['entry_captcha'] = 'Enter the code in the box below';
+// Entrada
+$_['entry_captcha'] = 'Ingresa el código de verificación en el cuadro de abajo';
 
 // Error
-$_['error_captcha'] = 'Verification code does not match the image!';
+$_['error_captcha'] = '¡El código de verificación no coincide con la imagen!';
+?>

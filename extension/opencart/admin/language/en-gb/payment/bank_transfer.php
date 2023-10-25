@@ -1,19 +1,20 @@
 <?php
-// Heading
-$_['heading_title']      = 'Bank Transfer';
+// Encabezado
+$_['heading_title']      = 'Transferencia Bancaria';
 
-// Text
-$_['text_extension']     = 'Extensions';
-$_['text_success']       = 'Success: You have modified bank transfer details!';
-$_['text_edit']          = 'Edit Bank Transfer';
+// Texto
+$_['text_extension']     = 'Extensiones';
+$_['text_success']       = 'Éxito: ¡has modificado los detalles de la transferencia bancaria!';
+$_['text_edit']          = 'Editar Transferencia Bancaria';
 
-// Entry
-$_['entry_bank']         = 'Bank Transfer Instructions';
-$_['entry_order_status'] = 'Order Status';
-$_['entry_geo_zone']     = 'Geo Zone';
-$_['entry_status']       = 'Status';
-$_['entry_sort_order']   = 'Sort Order';
+// Entrada
+$_['entry_bank']         = 'Instrucciones para Transferencia Bancaria';
+$_['entry_order_status'] = 'Estado del Pedido';
+$_['entry_geo_zone']     = 'Zona Geográfica';
+$_['entry_status']       = 'Estado';
+$_['entry_sort_order']   = 'Orden de Clasificación';
 
 // Error
-$_['error_permission']   = 'Warning: You do not have permission to modify payment bank transfer!';
-$_['error_bank']         = 'Bank Transfer Instructions required!';
+$_['error_permission']   = 'Advertencia: ¡no tienes permiso para modificar la transferencia bancaria de pago!';
+$_['error_bank']         = 'Instrucciones para Transferencia Bancaria requeridas!';
+?>

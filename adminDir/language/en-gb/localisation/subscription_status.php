@@ -1,22 +1,23 @@
 <?php
-// Heading
-$_['heading_title']      = 'Subscription Statuses';
+// Encabezado
+$_['heading_title']      = 'Estados de Suscripción';
 
-// Text
-$_['text_success']       = 'Success: You have modified subscription statuses!';
-$_['text_list']          = 'Subscription Status List';
-$_['text_add']           = 'Add Subscription Status';
-$_['text_edit']          = 'Edit Subscription Status';
+// Texto
+$_['text_success']       = 'Éxito: has modificado los estados de suscripción correctamente!';
+$_['text_list']          = 'Lista de Estados de Suscripción';
+$_['text_add']           = 'Agregar Estado de Suscripción';
+$_['text_edit']          = 'Editar Estado de Suscripción';
 
-// Column
-$_['column_name']        = 'Subscription Status Name';
-$_['column_action']      = 'Action';
+// Columna
+$_['column_name']        = 'Nombre del Estado de Suscripción';
+$_['column_action']      = 'Acción';
 
-// Entry
-$_['entry_name']         = 'Subscription Status Name';
+// Entrada
+$_['entry_name']         = 'Nombre del Estado de Suscripción';
 
 // Error
-$_['error_permission']   = 'Warning: You do not have permission to modify subscription statuses!';
-$_['error_name']         = 'Subscription Status Name must be between 3 and 32 characters!';
-$_['error_default']      = 'Warning: This subscription status cannot be deleted as it is currently assigned as the default store subscription status!';
-$_['error_subscription'] = 'Warning: This subscription status cannot be deleted as it is currently assigned to %s subscriptions!';
+$_['error_permission']   = 'Advertencia: no tienes permiso para modificar los estados de suscripción!';
+$_['error_name']         = 'El nombre del estado de suscripción debe tener entre 3 y 32 caracteres!';
+$_['error_default']      = 'Advertencia: no se puede eliminar este estado de suscripción ya que actualmente está asignado como el estado de suscripción predeterminado de la tienda!';
+$_['error_subscription'] = 'Advertencia: no se puede eliminar este estado de suscripción ya que actualmente está asignado a %s suscripciones!';
+?>

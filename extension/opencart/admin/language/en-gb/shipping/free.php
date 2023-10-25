@@ -1,20 +1,21 @@
 <?php
-// Heading
-$_['heading_title']    = 'Free Shipping';
+// Encabezado
+$_['heading_title']    = 'Envío Gratuito';
 
-// Text
-$_['text_extension']   = 'Extensions';
-$_['text_success']     = 'Success: You have modified free shipping!';
-$_['text_edit']        = 'Edit Free Shipping';
+// Texto
+$_['text_extension']   = 'Extensiones';
+$_['text_success']     = 'Éxito: ¡has modificado el envío gratuito!';
+$_['text_edit']        = 'Editar Envío Gratuito';
 
-// Entry
-$_['entry_total']      = 'Sub-Total';
-$_['entry_geo_zone']   = 'Geo Zone';
-$_['entry_status']     = 'Status';
-$_['entry_sort_order'] = 'Sort Order';
+// Entrada
+$_['entry_total']      = 'Subtotal';
+$_['entry_geo_zone']   = 'Zona Geográfica';
+$_['entry_status']     = 'Estado';
+$_['entry_sort_order'] = 'Orden de Clasificación';
 
-// Help
-$_['help_total']       = 'Sub-Total amount needed before the free shipping module becomes available.';
+// Ayuda
+$_['help_total']       = 'Cantidad de subtotal necesaria antes de que el módulo de envío gratuito esté disponible.';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify free shipping!';
+$_['error_permission'] = 'Advertencia: ¡no tienes permiso para modificar el envío gratuito!';
+?>

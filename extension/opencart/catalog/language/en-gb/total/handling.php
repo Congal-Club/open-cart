@@ -1,3 +1,4 @@
 <?php
-// Text
-$_['text_handling'] = 'Handling Fee';
+// Texto
+$_['text_handling'] = 'Tarifa de Manipulación';
+?>

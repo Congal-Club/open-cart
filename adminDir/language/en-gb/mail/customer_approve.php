@@ -1,10 +1,11 @@
 <?php
 // Text
-$_['text_subject'] = '%s - Your Account has been activated!';
-$_['text_welcome'] = 'Welcome and thank you for registering at %s!';
-$_['text_login']   = 'Your account has now been created and you can log in by using your email address and password by visiting our website or at the following URL:';
-$_['text_service'] = 'Upon logging in, you will be able to access other services including reviewing past orders, printing invoices and editing your account information.';
-$_['text_thanks']  = 'Thanks,';
+$_['text_subject'] = '%s - ¡Tu cuenta ha sido activada!';
+$_['text_welcome'] = '¡Bienvenido y gracias por registrarte en %s!';
+$_['text_login']   = 'Tu cuenta ha sido creada y ahora puedes iniciar sesión utilizando tu dirección de correo electrónico y contraseña al visitar nuestro sitio web o en la siguiente URL:';
+$_['text_service'] = 'Después de iniciar sesión, podrás acceder a otros servicios, incluyendo la revisión de pedidos anteriores, la impresión de facturas y la edición de tu información de cuenta.';
+$_['text_thanks']  = 'Gracias,';
 
 // Button
-$_['button_login'] = 'Login';
+$_['button_login'] = 'Iniciar sesión';
+?>

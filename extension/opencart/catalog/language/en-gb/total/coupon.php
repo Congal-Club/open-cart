@@ -1,15 +1,16 @@
 <?php
-// Heading
-$_['heading_title'] = 'Use Coupon Code';
+// Encabezado
+$_['heading_title'] = 'Usar Código de Cupón';
 
-// Text
-$_['text_coupon']   = 'Coupon (%s)';
-$_['text_success']  = 'Success: Your coupon discount has been applied!';
-$_['text_remove']   = 'Success: Your coupon discount has been removed!';
+// Texto
+$_['text_coupon']   = 'Cupón (%s)';
+$_['text_success']  = 'Éxito: ¡Se ha aplicado el descuento de tu cupón!';
+$_['text_remove']   = 'Éxito: ¡Se ha eliminado el descuento de tu cupón!';
 
-// Entry
-$_['entry_coupon']  = 'Enter your coupon here';
+// Entrada
+$_['entry_coupon']  = 'Ingresa tu cupón aquí';
 
 // Error
-$_['error_coupon']  = 'Warning: Coupon is either invalid, expired or reached its usage limit!';
-$_['error_status']  = 'Warning: Coupons are not enabled on this store!';
+$_['error_coupon']  = 'Advertencia: ¡El cupón no es válido, ha expirado o ha alcanzado su límite de uso!';
+$_['error_status']  = 'Advertencia: ¡Los cupones no están habilitados en esta tienda!';
+?>

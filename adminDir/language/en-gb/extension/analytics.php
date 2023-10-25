@@ -1,16 +1,17 @@
 <?php
 // Heading
-$_['heading_title']    = 'Analytics';
+$_['heading_title']    = 'Análisis';
 
 // Text
-$_['text_success']     = 'Success: You have modified analytics!';
-$_['text_list']        = 'Analytics List';
+$_['text_success']     = 'Éxito: ¡Has modificado los análisis!';
+$_['text_list']        = 'Lista de Análisis';
 
 // Column
-$_['column_name']      = 'Analytics Name';
-$_['column_status']    = 'Status';
-$_['column_action']    = 'Action';
+$_['column_name']      = 'Nombre del Análisis';
+$_['column_status']    = 'Estado';
+$_['column_action']    = 'Acción';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify analytics!';
-$_['error_extension']  = 'Warning: Extension does not exist!';
+$_['error_permission'] = 'Advertencia: No tienes permiso para modificar los análisis.';
+$_['error_extension']  = 'Advertencia: ¡La extensión no existe!';
+?>

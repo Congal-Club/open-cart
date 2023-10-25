@@ -1,31 +1,32 @@
 <?php
-// Heading
-$_['heading_title']     = 'Customer Searches Report';
+// Encabezado
+$_['heading_title']     = 'Informe de Búsquedas de Clientes';
 
-// Text
-$_['text_extension']    = 'Extensions';
-$_['text_edit']         = 'Edit Customer Searches Report';
-$_['text_success']      = 'Success: You have modified customer searches report!';
-$_['text_filter']       = 'Filter';
-$_['text_guest']        = 'Guest';
+// Texto
+$_['text_extension']    = 'Extensiones';
+$_['text_edit']         = 'Editar Informe de Búsquedas de Clientes';
+$_['text_success']      = 'Éxito: ¡has modificado el informe de búsquedas de clientes!';
+$_['text_filter']       = 'Filtrar';
+$_['text_guest']        = 'Invitado';
 $_['text_customer']     = '<a href="%s">%s</a>';
 
-// Column
-$_['column_keyword']    = 'Keyword';
-$_['column_products']   = 'Found Products';
-$_['column_category']   = 'Category';
-$_['column_customer']   = 'Customer';
+// Columna
+$_['column_keyword']    = 'Palabra Clave';
+$_['column_products']   = 'Productos Encontrados';
+$_['column_category']   = 'Categoría';
+$_['column_customer']   = 'Cliente';
 $_['column_ip']         = 'IP';
-$_['column_date_added'] = 'Date Added';
+$_['column_date_added'] = 'Fecha de Registro';
 
-// Entry
-$_['entry_date_start']  = 'Date Start';
-$_['entry_date_end']    = 'Date End';
-$_['entry_keyword']     = 'Keyword';
-$_['entry_customer']    = 'Customer';
+// Entrada
+$_['entry_date_start']  = 'Fecha de Inicio';
+$_['entry_date_end']    = 'Fecha de Fin';
+$_['entry_keyword']     = 'Palabra Clave';
+$_['entry_customer']    = 'Cliente';
 $_['entry_ip']          = 'IP';
-$_['entry_status']      = 'Status';
-$_['entry_sort_order']  = 'Sort Order';
+$_['entry_status']      = 'Estado';
+$_['entry_sort_order']  = 'Orden de Clasificación';
 
 // Error
-$_['error_permission']  = 'Warning: You do not have permission to modify customer searches report!';
+$_['error_permission']  = 'Advertencia: no tienes permiso para modificar el informe de búsquedas de clientes!';
+?>

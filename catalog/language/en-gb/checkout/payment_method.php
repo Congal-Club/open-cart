@@ -1,21 +1,22 @@
 <?php
-// Heading
-$_['heading_title']          = 'Payment Method';
+// Encabezado
+$_['heading_title']          = 'Método de Pago';
 
-// Text
-$_['text_payment_method']    = 'Payment method options';
-$_['text_payment']           = 'Please select the preferred payment method to use for this order.';
-$_['text_comments']          = 'Add Comments About Your Order';
-$_['text_agree']             = 'I have read and agree to the <a href="%s" class="modal-link"><b>%s</b></a>';
-$_['text_success']           = 'Success: You have changed payment method!';
-$_['text_comment']           = 'Success: Comment added!';
+// Texto
+$_['text_payment_method']    = 'Opciones de método de pago';
+$_['text_payment']           = 'Por favor, selecciona el método de pago preferido para usar en este pedido.';
+$_['text_comments']          = 'Agregar Comentarios Sobre Tu Pedido';
+$_['text_agree']             = 'He leído y acepto los <a href="%s" class="modal-link"><b>%s</b></a>';
+$_['text_success']           = 'Éxito: ¡Has cambiado el método de pago!';
+$_['text_comment']           = 'Éxito: ¡Comentario agregado!';
 
-// Entry
-$_['entry_payment_method']   = 'Choose payment method...';
+// Entrada
+$_['entry_payment_method']   = 'Elige el método de pago...';
 
 // Error
-$_['error_payment_address']  = 'Payment address required!';
-$_['error_shipping_address'] = 'Shipping address required!';
-$_['error_shipping_method']  = 'Shipping method required!';
-$_['error_payment_method']   = 'Payment method required!';
-$_['error_no_payment']       = 'No Payment options are available. Please <a href="%s">contact us</a> for assistance!';
+$_['error_payment_address']  = '¡Se requiere la dirección de pago!';
+$_['error_shipping_address'] = '¡Se requiere la dirección de envío!';
+$_['error_shipping_method']  = '¡Se requiere el método de envío!';
+$_['error_payment_method']   = '¡Se requiere el método de pago!';
+$_['error_no_payment']       = 'No hay opciones de pago disponibles. Por favor, <a href="%s">contáctanos</a> para obtener asistencia!';
+?>

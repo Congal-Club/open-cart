@@ -1,23 +1,23 @@
 <?php
-// Heading
-$_['heading_title']   = 'My Wishlist';
+// Título
+$_['heading_title']   = 'Mi Lista de Deseos';
 
-// Text
-$_['text_account']    = 'Account';
-$_['text_instock']    = 'In Stock';
-$_['text_wishlist']   = 'Wish List (%s)';
-$_['text_login']      = 'You must <a href="%s">login</a> or <a href="%s">create an account</a> to save <a href="%s">%s</a> to your <a href="%s">wish list</a>!';
-$_['text_success']    = 'Success: You have added <a href="%s">%s</a> to your <a href="%s">wish list</a>!';
-$_['text_remove']     = 'Success: You have removed an item from your wishlist';
-$_['text_no_results'] = 'Your wish list is empty.';
+// Texto
+$_['text_account']    = 'Cuenta';
+$_['text_instock']    = 'En Stock';
+$_['text_wishlist']   = 'Lista de Deseos (%s)';
+$_['text_login']      = 'Debes <a href="%s">iniciar sesión</a> o <a href="%s">crear una cuenta</a> para guardar <a href="%s">%s</a> en tu <a href="%s">lista de deseos</a>!';
+$_['text_success']    = 'Éxito: Has agregado <a href="%s">%s</a> a tu <a href="%s">lista de deseos</a>!';
+$_['text_remove']     = 'Éxito: Has eliminado un artículo de tu lista de deseos';
+$_['text_no_results'] = 'Tu lista de deseos está vacía.';
 
-// Column
-$_['column_image']    = 'Image';
-$_['column_name']     = 'Product Name';
-$_['column_model']    = 'Model';
+// Columnas
+$_['column_image']    = 'Imagen';
+$_['column_name']     = 'Nombre del Producto';
+$_['column_model']    = 'Modelo';
 $_['column_stock']    = 'Stock';
-$_['column_price']    = 'Unit Price';
-$_['column_action']   = 'Action';
+$_['column_price']    = 'Precio Unitario';
+$_['column_action']   = 'Acción';
 
 // Error
-$_['error_product']   = 'Warning: Product could not be found!';
+$_['error_product']   = 'Advertencia: ¡No se pudo encontrar el producto!';

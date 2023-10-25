@@ -1,7 +1,8 @@
 <?php
-// Heading
-$_['heading_title'] = 'Information';
+// Encabezado
+$_['heading_title'] = 'Información';
 
-// Text
-$_['text_contact']  = 'Contact Us';
-$_['text_sitemap']  = 'Site Map';
+// Texto
+$_['text_contact']  = 'Contáctenos';
+$_['text_sitemap']  = 'Mapa del Sitio';
+?>

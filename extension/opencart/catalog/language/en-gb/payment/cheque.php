@@ -1,9 +1,10 @@
 <?php
-// Heading
-$_['heading_title']    = 'Cheque / Money Order';
+// Encabezado
+$_['heading_title']    = 'Cheque / Giro Postal';
 
-// Text
-$_['text_instruction'] = 'Cheque / Money Order Instructions';
-$_['text_payable']     = 'Make Payable To: ';
-$_['text_address']     = 'Send To: ';
-$_['text_payment']     = 'Your order will not ship until we receive payment.';
+// Texto
+$_['text_instruction'] = 'Instrucciones para Cheque / Giro Postal';
+$_['text_payable']     = 'Hacer Pagadero A: ';
+$_['text_address']     = 'Enviar A: ';
+$_['text_payment']     = 'Su pedido no se enviará hasta que recibamos el pago.';
+?>

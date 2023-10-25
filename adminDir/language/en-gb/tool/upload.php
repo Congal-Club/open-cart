@@ -1,28 +1,28 @@
 <?php
-// Heading
-$_['heading_title']      = 'Uploads';
+// Título
+$_['heading_title']      = 'Cargas';
 
-// Text
-$_['text_success']       = 'Success: You have modified uploads!';
-$_['text_list']          = 'Upload List';
-$_['text_filter']        = 'Filter';
+// Texto
+$_['text_success']       = 'Éxito: ¡Has modificado las cargas exitosamente!';
+$_['text_list']          = 'Lista de Cargas';
+$_['text_filter']        = 'Filtrar';
 
-// Column
-$_['column_name']        = 'Upload Name';
-$_['column_code']        = 'Code';
-$_['column_date_added']  = 'Date Added';
-$_['column_action']      = 'Action';
+// Columna
+$_['column_name']        = 'Nombre de la Carga';
+$_['column_code']        = 'Código';
+$_['column_date_added']  = 'Fecha de Agregado';
+$_['column_action']      = 'Acción';
 
-// Entry
-$_['entry_name']         = 'Upload Name';
-$_['entry_filename']     = 'Filename';
-$_['entry_date_from']    = 'Date From';
-$_['entry_date_to']      = 'Date To';
+// Entrada
+$_['entry_name']         = 'Nombre de la Carga';
+$_['entry_filename']     = 'Nombre de Archivo';
+$_['entry_date_from']    = 'Fecha Desde';
+$_['entry_date_to']      = 'Fecha Hasta';
 
 // Error
-$_['error_permission']   = 'Warning: You do not have permission to modify uploads!';
-$_['error_not_found']    = 'Error: Could not find file %s !';
-$_['error_headers_sent'] = 'Error: Headers already sent out!';
-$_['error_upload']       = 'File could not be uploaded!';
-$_['error_filename']     = 'Filename must be between 3 and 128 characters!';
-$_['error_file_type']    = 'Invalid file type!';
+$_['error_permission']   = 'Advertencia: ¡No tienes permiso para modificar las cargas!';
+$_['error_not_found']    = 'Error: ¡No se pudo encontrar el archivo %s!';
+$_['error_headers_sent'] = 'Error: ¡Las cabeceras ya se han enviado!';
+$_['error_upload']       = 'No se pudo subir el archivo!';
+$_['error_filename']     = '¡El nombre de archivo debe tener entre 3 y 128 caracteres!';
+$_['error_file_type']    = 'Tipo de archivo no válido!';

@@ -1,16 +1,17 @@
 <?php
-// Heading
-$_['heading_title']    = 'Anti-Fraud';
+// Encabezado
+$_['heading_title']    = 'Anti-Fraude';
 
-// Text
-$_['text_success']     = 'Success: You have modified anti-fraud!';
-$_['text_list']        = 'Anti-Fraud List';
+// Texto
+$_['text_success']     = 'Éxito: ¡Has modificado el anti-fraude!';
+$_['text_list']        = 'Lista de Anti-Fraude';
 
-// Column
-$_['column_name']      = 'Anti-Fraud Name';
-$_['column_status']    = 'Status';
-$_['column_action']    = 'Action';
+// Columna
+$_['column_name']      = 'Nombre del Anti-Fraude';
+$_['column_status']    = 'Estado';
+$_['column_action']    = 'Acción';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify anti-fraud!';
-$_['error_extension']  = 'Warning: Extension does not exist!';
+$_['error_permission'] = 'Advertencia: No tienes permiso para modificar el anti-fraude.';
+$_['error_extension']  = 'Advertencia: ¡La extensión no existe!';
+?>

@@ -1,27 +1,28 @@
 <?php
-// Heading
-$_['heading_title']    = 'Featured';
+// Encabezado
+$_['heading_title']    = 'Destacados';
 
-// Text
-$_['text_extension']   = 'Extensions';
-$_['text_success']     = 'Success: You have modified featured module!';
-$_['text_edit']        = 'Edit Featured Module';
+// Texto
+$_['text_extension']   = 'Extensiones';
+$_['text_success']     = 'Éxito: has modificado el módulo de destacados!';
+$_['text_edit']        = 'Editar Módulo de Destacados';
 $_['text_horizontal']  = 'Horizontal';
 $_['text_vertical']    = 'Vertical';
 
-// Entry
-$_['entry_name']       = 'Module Name';
-$_['entry_product']    = 'Products';
-$_['entry_axis']       = 'Axis';
-$_['entry_width']      = 'Image Width';
-$_['entry_height']     = 'Image Height';
-$_['entry_status']     = 'Status';
+// Entrada
+$_['entry_name']       = 'Nombre del Módulo';
+$_['entry_product']    = 'Productos';
+$_['entry_axis']       = 'Eje';
+$_['entry_width']      = 'Ancho de la Imagen';
+$_['entry_height']     = 'Altura de la Imagen';
+$_['entry_status']     = 'Estado';
 
-// Help
-$_['help_product']     = '(Autocomplete)';
+// Ayuda
+$_['help_product']     = '(Autocompletar)';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify featured module!';
-$_['error_name']       = 'Module Name must be between 3 and 64 characters!';
-$_['error_width']      = 'Width required!';
-$_['error_height']     = 'Height required!';
+$_['error_permission'] = 'Advertencia: no tienes permiso para modificar el módulo de destacados!';
+$_['error_name']       = 'El nombre del módulo debe tener entre 3 y 64 caracteres!';
+$_['error_width']      = 'Ancho requerido!';
+$_['error_height']     = 'Altura requerida!';
+?>

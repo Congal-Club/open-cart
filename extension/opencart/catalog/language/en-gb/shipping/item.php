@@ -1,6 +1,7 @@
 <?php
-// Heading
-$_['heading_title']    = 'Per Item';
+// Encabezado
+$_['heading_title']    = 'Por Artículo';
 
-// Text
-$_['text_description'] = 'Per Item Shipping Rate';
+// Texto
+$_['text_description'] = 'Tarifa de Envío Por Artículo';
+?>

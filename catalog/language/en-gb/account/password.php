@@ -1,17 +1,17 @@
 <?php
-// Heading
-$_['heading_title']  = 'Change Password';
+// Título
+$_['heading_title']  = 'Cambiar Contraseña';
 
-// Text
-$_['text_account']   = 'Account';
-$_['text_password']  = 'Your Password';
-$_['text_success']   = 'Success: Your password has been successfully updated.';
+// Texto
+$_['text_account']   = 'Cuenta';
+$_['text_password']  = 'Tu Contraseña';
+$_['text_success']   = 'Éxito: Tu contraseña se ha actualizado correctamente.';
 
-// Entry
-$_['entry_password'] = 'Password';
-$_['entry_confirm']  = 'Password Confirm';
+// Entrada
+$_['entry_password'] = 'Contraseña';
+$_['entry_confirm']  = 'Confirmar Contraseña';
 
 // Error
-$_['error_token']    = 'Warning: Password token invalid!';
-$_['error_password'] = 'Password must be between 4 and 20 characters!';
-$_['error_confirm']  = 'Password confirmation does not match password!';
+$_['error_token']    = 'Advertencia: Token de contraseña no válido.';
+$_['error_password'] = 'La contraseña debe tener entre 4 y 20 caracteres.';
+$_['error_confirm']  = 'La confirmación de la contraseña no coincide con la contraseña.';

@@ -1,25 +1,25 @@
 <?php
-// Heading
-$_['heading_title']      = 'Forgot Your Password?';
-$_['heading_reset']      = 'Reset your password';
+// Título
+$_['heading_title']      = '¿Olvidaste tu contraseña?';
+$_['heading_reset']      = 'Restablece tu contraseña';
 
-// Text
-$_['text_account']       = 'Account';
-$_['text_forgotten']     = 'Forgotten Password';
-$_['text_your_email']    = 'Your E-Mail Address';
-$_['text_email']         = 'Enter the e-mail address associated with your account. Click submit to have a password reset link e-mailed to you.';
-$_['text_password']      = 'Enter the new password you wish to use.';
-$_['text_success']       = 'Success: Your password has been successfully updated.';
+// Texto
+$_['text_account']       = 'Cuenta';
+$_['text_forgotten']     = 'Contraseña Olvidada';
+$_['text_your_email']    = 'Tu Dirección de Correo Electrónico';
+$_['text_email']         = 'Ingresa la dirección de correo electrónico asociada a tu cuenta. Haz clic en enviar para recibir un enlace para restablecer la contraseña en tu correo electrónico.';
+$_['text_password']      = 'Ingresa la nueva contraseña que deseas usar.';
+$_['text_success']       = 'Éxito: Tu contraseña se ha actualizado correctamente.';
 
-// Entry
-$_['entry_email']        = 'E-Mail Address';
-$_['entry_new_password'] = 'New Password';
-$_['entry_password']     = 'Password';
-$_['entry_confirm']      = 'Confirm';
+// Entrada
+$_['entry_email']        = 'Dirección de Correo Electrónico';
+$_['entry_new_password'] = 'Nueva Contraseña';
+$_['entry_password']     = 'Contraseña';
+$_['entry_confirm']      = 'Confirmar';
 
 // Error
-$_['error_email']        = 'E-Mail Address does not appear to be valid!';
-$_['error_not_found']    = 'Warning: The E-Mail Address was not found in our records!';
-$_['error_password']     = 'Password must be between 4 and 20 characters!';
-$_['error_confirm']      = 'Password and password confirmation do not match!';
-$_['error_code']         = 'Password reset code is invalid or was used previously!';
+$_['error_email']        = 'La Dirección de Correo Electrónico no parece ser válida.';
+$_['error_not_found']    = 'Advertencia: La Dirección de Correo Electrónico no se encontró en nuestros registros.';
+$_['error_password']     = 'La Contraseña debe tener entre 4 y 20 caracteres.';
+$_['error_confirm']      = 'La Contraseña y la confirmación de la contraseña no coinciden.';
+$_['error_code']         = 'El código de restablecimiento de contraseña es inválido o ya fue utilizado previamente.';

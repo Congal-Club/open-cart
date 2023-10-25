@@ -1,24 +1,25 @@
 <?php
-// Heading
-$_['heading_title']     = 'Latest Orders';
+// Encabezado
+$_['heading_title']     = 'Últimos Pedidos';
 
-// Text
-$_['text_extension']    = 'Extensions';
-$_['text_success']      = 'Success: You have modified dashboard recent orders!';
-$_['text_edit']         = 'Edit Dashboard Recent Orders';
+// Texto
+$_['text_extension']    = 'Extensiones';
+$_['text_success']      = 'Éxito: has modificado el módulo de los últimos pedidos del panel de control!';
+$_['text_edit']         = 'Editar Módulo de Últimos Pedidos del Panel de Control';
 
-// Column
-$_['column_order_id']   = 'Order ID';
-$_['column_customer']   = 'Customer';
-$_['column_status']     = 'Status';
+// Columna
+$_['column_order_id']   = 'ID del Pedido';
+$_['column_customer']   = 'Cliente';
+$_['column_status']     = 'Estado';
 $_['column_total']      = 'Total';
-$_['column_date_added'] = 'Date Added';
-$_['column_action']     = 'Action';
+$_['column_date_added'] = 'Fecha de Agregado';
+$_['column_action']     = 'Acción';
 
-// Entry
-$_['entry_status']      = 'Status';
-$_['entry_sort_order']  = 'Sort Order';
-$_['entry_width']       = 'Width';
+// Entrada
+$_['entry_status']      = 'Estado';
+$_['entry_sort_order']  = 'Orden de Clasificación';
+$_['entry_width']       = 'Ancho';
 
 // Error
-$_['error_permission']  = 'Warning: You do not have permission to modify dashboard recent orders!';
+$_['error_permission']  = 'Advertencia: no tienes permiso para modificar el módulo de los últimos pedidos del panel de control!';
+?>
