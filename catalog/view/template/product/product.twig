@@ -34,7 +34,6 @@
         <div class="col-sm">
           <h1>{{ heading_title }}</h1>
           <ul class="list-unstyled">
-
             {% if manufacturer %}
               <li>{{ text_manufacturer }} <a href="{{ manufacturers }}">{{ manufacturer }}</a></li>
             {% endif %}
@@ -46,6 +45,8 @@
             {% endif %}
 
             <li>{{ text_stock }} {{ stock }}</li>
+            
+            <li>Descripción corta: {{ short_description }}</li>
           </ul>
 
           {% if price %}

@@ -231,6 +231,7 @@ class Product extends \Opencart\System\Engine\Controller {
 				'product_id' => $result['product_id'],
 				'image'      => $image,
 				'name'       => $result['name'],
+				'description' => $result['short_description'],
 				'model'      => $result['model'],
 				'price'      => $this->currency->format($result['price'], $this->config->get('config_currency')),
 				'special'    => $special,

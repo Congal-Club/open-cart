@@ -82,6 +82,22 @@
                       </div>
                     </div>
                     <div class="row mb-3 required">
+                      <label for="input-short-description-{{ language.language_id }}" class="col-sm-2 col-form-label">Short Description</label>
+                      <div class="col-sm-10">
+                        <div class="input-group">
+                          <textarea name="product_description[{{ language.language_id }}][short_description]" placeholder="Short Description" id="input-short-description-{{ language.language_id }}" class="form-control">{{ product_description[language.language_id] ? product_description[language.language_id].short_description }}</textarea>
+                          {% if master_id %}
+                            <div class="input-group-text">
+                              <div class="form-check form-switch">
+                                <input type="checkbox" name="override[product_description][{{ language.language_id }}][short_description]" value="1" id="input-variant-short-description-{{ language.language_id }}" data-oc-toggle="switch" data-oc-target="#input-short-description-{{ language.language_id }}" class="form-check-input"{% if override.product_description[language.language_id].short_description %} checked{% endif %}/> <label for="input-variant-short-description-{{ language.language_id }}" class="form-check-label"></label>
+                              </div>
+                            </div>
+                          {% endif %}
+                        </div>
+                        <div id="error-short-description-{{ language.language_id }}" class="invalid-feedback"></div>
+                      </div>
+                    </div>
+                    <div class="row mb-3 required">
                       <label for="input-meta-title-{{ language.language_id }}" class="col-sm-2 col-form-label">{{ entry_meta_title }}</label>
                       <div class="col-sm-10">
                         <div class="input-group">
